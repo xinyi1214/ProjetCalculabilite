@@ -1,5 +1,12 @@
 # ProjetCalculabilite
 
+## Membres
+Shererazade NIBEB, Xinyi SHEN
+
+## Résume du projet
+
+Nous présentons ici un modèle de calcul de complexité en temps des programmes informatiques appliqué aux recettes de cuisine en français. Dans un  premier temps, afin de reconnaître les recettes, nous avons réalisé les nouvelles entités nommées françaises par rapport aux recettes : VerbeCulinaie, Ingredient et Ustensile. Dans un deuxième temps, à partir des entités nommées, nous avons calculé pour chaque recette sa complexité en temps. À la fin, nous avons fait la corrélation entre la complexité en temps et le niveau de chaque recette.
+
 **Codes**
 |  Codes  |  Input  |  Output  |  Commentaires  |
 |  ----  | ----  |  ----  |  ----  |
