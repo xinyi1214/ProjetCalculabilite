@@ -1,0 +1,227 @@
+Abaisser
+Abricoter
+Accoler
+Accommoder
+Adoucir (= édulcorer)
+Aiguiser
+Araser
+Arroser (1) (= juter)
+Arroser (2) (= citronner)
+Attendrir
+Assaisonner
+Badigeonner
+Barder (= larder)
+Battre
+Beurrer
+Blanchir (1)
+Blanchir (2)
+Blondir
+Bouillir
+Braiser
+Brasser
+Broyer
+Brûler
+Cailler
+Candir
+Canneler
+Cerner (1)
+Cerner (2)
+Chemiser (1)
+Chemiser (2)
+Chiqueter
+Ciseler (1)
+Ciseler (2)
+Citronner (2) (= arroser)
+Clarifier (1)
+Clarifier (2)
+Clouter
+Coaguler
+Coller (1)
+Coller (2)
+Compoter
+Concasser
+Concher (2)
+Confire
+Coucher
+Couper en julienne
+Couper en brunoise
+Couper en dés
+Couper en tronçons
+Couvrir
+Crémer
+Crever
+Cribler
+Cristalliser
+Croûter
+Cuire à blanc
+Cuire à l’étuvée / à l’étouffée
+Cuire au bain-marie
+Cuire en papillote
+Cuire en sauce
+Débarrasser
+Débrider
+Décanter
+Décorer
+Décortiquer
+Décuire
+Dégazer
+Déglacer
+Dégorger (1)
+Dégorger (2)
+Dégraisser
+Délayer
+Démouler
+Dénerver
+Dénoyauter
+Dessécher
+Désosser
+Dessaler
+Détailler
+Détendre
+Détremper
+Développer
+Délayer (= diluer)
+Diluer (= délayer)
+Dissoudre
+Doubler
+Dorer
+Dresser
+Ébarber
+Ébouillanter
+Écailler
+Écaler
+Écosser
+Écumer
+Édulcorer (= adoucir)
+Effeuiller
+Effiler
+Égrener
+Égoutter
+Émietter
+Émincer
+Émonder (= monder) (1)
+Émonder (= monder) (2)
+Émulsionner
+Enfourner
+Enrober
+Épaissir
+Épépiner
+Éplucher
+Éponger
+Équeuter
+Escaloper
+Évider
+Éviscérer (= vider)
+Exprimer
+Façonner
+Faire revenir
+Fariner (1)
+Fariner
+Ficeler
+Filmer
+Filtrer
+Flamber (1)
+Flamber (2)
+Foisonner
+Foncer
+Fondre (1)
+Fondre (2)
+Fouetter
+Fourrer
+Fraiser
+Frapper
+Frire
+Fumer
+Garnir
+Gélifier
+Glacer (1)
+Glacer (2)
+Glacer (3)
+Graisser
+Gratiner
+Griller
+Hacher
+Habiller
+Humecter
+Imbiber
+Inciser
+Incorporer
+Infuser
+Juter (= arroser)
+Larder (= barder)
+Laver
+Lever (1)
+Lever (2)
+Lier
+Limoner
+Liquéfier
+Lustrer
+Luter
+Macérer
+Malaxer (1)
+Malaxer (2)
+Manchonner
+Manier
+Mariner
+Mijoter
+Mitonner
+Monder (= émonder) (1)
+Monder (= émonder) (2)
+Monter au beurre
+Monter
+Mouiller
+Nacrer
+Napper
+Paner
+Parer
+Passer
+Pasteuriser
+Peler
+Peler à vif
+Peser
+Pétrir
+Pincer (1)
+Pincer (2)
+Piquer (1)
+Piquer (2)
+Plonger
+Pocher
+Poêler
+Porter à ébullition
+Porter à frémissement
+Quadriller (1)
+Quadriller (2)
+Rafraîchir
+Râper
+Rectifier
+Réduire
+Relever
+Remonter
+Reposer
+Réserver
+Revenir
+Rissoler
+Rôtir
+Sabler
+Saisir
+Saupoudrer
+Sauter
+Singer
+Siroper
+Stériliser
+Suer
+Tamiser
+Tamponner
+Tartiner
+Tomber
+Torréfier
+Tourer
+Trancher
+Travailler
+Tremper (1)
+Tremper (2)
+Truffer
+Vanner
+Vider (= éviscérer)
+Videler
+Zester
