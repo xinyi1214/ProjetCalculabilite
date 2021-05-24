@@ -1,7 +1,7 @@
 # ProjetCalculabilite
 
 ## Membres
-Shererazade NIBEB, Xinyi SHEN
+Sheherazade Nineb, Xinyi Shen
 
 ## Résume du projet
 
