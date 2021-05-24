@@ -1,3 +1,10 @@
+"""
+Consigne:
+Ce programme prend les phrases d'ingrédients et les transforme aux mots d'ingrédients. Apèrs ce programme, on nettoye le fichier sorti manuellement
+Entrée : le fichier ustensille et le fichier ingédeint
+Sortie : le fichier ingrédientparspacy
+"""
+
 import spacy
 import re
 from spacy.pipeline import EntityRuler
