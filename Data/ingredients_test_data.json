@@ -1,0 +1,7532 @@
+[
+    [
+        "travaill p\u00e2t main d\u00e9posezl moul rond beurr",
+        {
+            "entities": [
+                [
+                    9,
+                    12,
+                    "INGREDIENT"
+                ],
+                [
+                    27,
+                    31,
+                    "INGREDIENT"
+                ],
+                [
+                    37,
+                    42,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "fair blanch fond eau bouill",
+        {
+            "entities": [
+                [
+                    5,
+                    11,
+                    "INGREDIENT"
+                ],
+                [
+                    17,
+                    20,
+                    "INGREDIENT"
+                ],
+                [
+                    21,
+                    27,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "sauteux fair fondr beurr",
+        {
+            "entities": [
+                [
+                    19,
+                    24,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "mouill mader",
+        {
+            "entities": [
+                [
+                    7,
+                    12,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "d\u00e9pos fond artichaut",
+        {
+            "entities": [
+                [
+                    11,
+                    20,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "sal poivr",
+        {
+            "entities": [
+                [
+                    0,
+                    3,
+                    "INGREDIENT"
+                ],
+                [
+                    4,
+                    9,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "couvr mijot mn",
+        {
+            "entities": [
+                [
+                    0,
+                    5,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "d\u00e9pos fond assiet garn tranch foi d\u00e9cor lamel truff facult serv",
+        {
+            "entities": [
+                [
+                    23,
+                    29,
+                    "INGREDIENT"
+                ],
+                [
+                    30,
+                    33,
+                    "INGREDIENT"
+                ],
+                [
+                    46,
+                    51,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "sautern loupiac vin",
+        {
+            "entities": [
+                [
+                    0,
+                    7,
+                    "INGREDIENT"
+                ],
+                [
+                    16,
+                    19,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "pr\u00e9par court bouillon eau vin garn carott oignon \u00e9minc ail clous girofl",
+        {
+            "entities": [
+                [
+                    13,
+                    21,
+                    "INGREDIENT"
+                ],
+                [
+                    22,
+                    25,
+                    "INGREDIENT"
+                ],
+                [
+                    26,
+                    29,
+                    "INGREDIENT"
+                ],
+                [
+                    35,
+                    41,
+                    "INGREDIENT"
+                ],
+                [
+                    42,
+                    48,
+                    "INGREDIENT"
+                ],
+                [
+                    55,
+                    58,
+                    "INGREDIENT"
+                ],
+                [
+                    59,
+                    64,
+                    "INGREDIENT"
+                ],
+                [
+                    65,
+                    71,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "ajout saucisson cuir mn",
+        {
+            "entities": [
+                [
+                    6,
+                    15,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "etal p\u00e2t cm \u00e9paisseur",
+        {
+            "entities": [
+                [
+                    5,
+                    8,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "recouvr saucisson p\u00e2t dor oeuf battu",
+        {
+            "entities": [
+                [
+                    8,
+                    17,
+                    "INGREDIENT"
+                ],
+                [
+                    18,
+                    21,
+                    "INGREDIENT"
+                ],
+                [
+                    22,
+                    25,
+                    "INGREDIENT"
+                ],
+                [
+                    26,
+                    30,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "pos saucisson plaqu beurr allant four",
+        {
+            "entities": [
+                [
+                    4,
+                    13,
+                    "INGREDIENT"
+                ],
+                [
+                    20,
+                    25,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "pr\u00e9par sauc r\u00e9duis mader moiti feu moyen ajout fond veau",
+        {
+            "entities": [
+                [
+                    7,
+                    11,
+                    "INGREDIENT"
+                ],
+                [
+                    19,
+                    24,
+                    "INGREDIENT"
+                ],
+                [
+                    52,
+                    56,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "feu ajout beurr fouet sel poivr",
+        {
+            "entities": [
+                [
+                    10,
+                    15,
+                    "INGREDIENT"
+                ],
+                [
+                    22,
+                    25,
+                    "INGREDIENT"
+                ],
+                [
+                    26,
+                    31,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "coup saucisson tranch napp sauc",
+        {
+            "entities": [
+                [
+                    5,
+                    14,
+                    "INGREDIENT"
+                ],
+                [
+                    15,
+                    21,
+                    "INGREDIENT"
+                ],
+                [
+                    27,
+                    31,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "piqu saucisson \u00e9clat",
+        {
+            "entities": [
+                [
+                    5,
+                    14,
+                    "INGREDIENT"
+                ],
+                [
+                    15,
+                    20,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "pren carr papi sulfuris roulezl enfoncezl p\u00e2t fair chemin",
+        {
+            "entities": [
+                [
+                    5,
+                    9,
+                    "INGREDIENT"
+                ],
+                [
+                    15,
+                    23,
+                    "INGREDIENT"
+                ],
+                [
+                    42,
+                    45,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "cocott dor r\u00f4t huil chaud fac",
+        {
+            "entities": [
+                [
+                    7,
+                    10,
+                    "INGREDIENT"
+                ],
+                [
+                    11,
+                    14,
+                    "INGREDIENT"
+                ],
+                [
+                    15,
+                    19,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "sal poivrezl",
+        {
+            "entities": [
+                [
+                    0,
+                    3,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "entretemp nettoi champignon",
+        {
+            "entities": [
+                [
+                    17,
+                    27,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "sal poivrezl",
+        {
+            "entities": [
+                [
+                    0,
+                    3,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "ajout beurr jus citron persil cisel",
+        {
+            "entities": [
+                [
+                    6,
+                    11,
+                    "INGREDIENT"
+                ],
+                [
+                    12,
+                    15,
+                    "INGREDIENT"
+                ],
+                [
+                    16,
+                    22,
+                    "INGREDIENT"
+                ],
+                [
+                    23,
+                    29,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "incorpor jaun oeuf crem",
+        {
+            "entities": [
+                [
+                    9,
+                    13,
+                    "INGREDIENT"
+                ],
+                [
+                    14,
+                    18,
+                    "INGREDIENT"
+                ],
+                [
+                    19,
+                    23,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "d\u00e9roul p\u00e2t plan travail",
+        {
+            "entities": [
+                [
+                    7,
+                    10,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "etal centr champignon",
+        {
+            "entities": [
+                [
+                    11,
+                    21,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "install r\u00f4t",
+        {
+            "entities": [
+                [
+                    8,
+                    11,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "tartinezl champignon",
+        {
+            "entities": [
+                [
+                    10,
+                    20,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "aid pinceau badigeon lait p\u00e2t r\u00f4t",
+        {
+            "entities": [
+                [
+                    12,
+                    20,
+                    "INGREDIENT"
+                ],
+                [
+                    21,
+                    25,
+                    "INGREDIENT"
+                ],
+                [
+                    26,
+                    29,
+                    "INGREDIENT"
+                ],
+                [
+                    30,
+                    33,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "repliezl enferm total appui bout doigt soud pliur",
+        {
+            "entities": [
+                [
+                    39,
+                    43,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "saupoudr plaqu p\u00e2tisser farin",
+        {
+            "entities": [
+                [
+                    15,
+                    23,
+                    "INGREDIENT"
+                ],
+                [
+                    24,
+                    29,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "d\u00e9coup motif chut p\u00e2t collezl jaun oeuf dilu lait",
+        {
+            "entities": [
+                [
+                    18,
+                    21,
+                    "INGREDIENT"
+                ],
+                [
+                    30,
+                    34,
+                    "INGREDIENT"
+                ],
+                [
+                    35,
+                    39,
+                    "INGREDIENT"
+                ],
+                [
+                    45,
+                    49,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "dor surfac enfourn cuir mn",
+        {
+            "entities": [
+                [
+                    0,
+                    3,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "ramen thermostat laiss cuir dor mn",
+        {
+            "entities": [
+                [
+                    28,
+                    31,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "serv po\u00eal champignon bois",
+        {
+            "entities": [
+                [
+                    10,
+                    20,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "fouet jaun oeuf sucr blanch fassent ruban",
+        {
+            "entities": [
+                [
+                    6,
+                    10,
+                    "INGREDIENT"
+                ],
+                [
+                    11,
+                    15,
+                    "INGREDIENT"
+                ],
+                [
+                    16,
+                    20,
+                    "INGREDIENT"
+                ],
+                [
+                    21,
+                    27,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "met chocolat patissi bris casserol cuil soup eau",
+        {
+            "entities": [
+                [
+                    4,
+                    12,
+                    "INGREDIENT"
+                ],
+                [
+                    21,
+                    25,
+                    "INGREDIENT"
+                ],
+                [
+                    26,
+                    34,
+                    "INGREDIENT"
+                ],
+                [
+                    40,
+                    44,
+                    "INGREDIENT"
+                ],
+                [
+                    45,
+                    48,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "faitesl fondr bouill ajoutezl jaun m\u00e9lang intim",
+        {
+            "entities": [
+                [
+                    14,
+                    20,
+                    "INGREDIENT"
+                ],
+                [
+                    30,
+                    34,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "tamis poudr amand levur f\u00e9cul ajout m\u00e9lang",
+        {
+            "entities": [
+                [
+                    6,
+                    11,
+                    "INGREDIENT"
+                ],
+                [
+                    12,
+                    17,
+                    "INGREDIENT"
+                ],
+                [
+                    18,
+                    23,
+                    "INGREDIENT"
+                ],
+                [
+                    24,
+                    29,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "rajout beurr ramoll fondu blanc oeuf battus neig pinc sel",
+        {
+            "entities": [
+                [
+                    7,
+                    12,
+                    "INGREDIENT"
+                ],
+                [
+                    32,
+                    36,
+                    "INGREDIENT"
+                ],
+                [
+                    54,
+                    57,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "oper m\u00e9lang soulev mass bris blanc",
+        {
+            "entities": [
+                [
+                    24,
+                    28,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "beurr moul saupoudrezl sucr semoul",
+        {
+            "entities": [
+                [
+                    0,
+                    5,
+                    "INGREDIENT"
+                ],
+                [
+                    6,
+                    10,
+                    "INGREDIENT"
+                ],
+                [
+                    23,
+                    27,
+                    "INGREDIENT"
+                ],
+                [
+                    28,
+                    34,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "laiss cuir min g\u00e2teau cuir conserv milieu p\u00e2t",
+        {
+            "entities": [
+                [
+                    15,
+                    21,
+                    "INGREDIENT"
+                ],
+                [
+                    42,
+                    45,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "laiss tied moul",
+        {
+            "entities": [
+                [
+                    11,
+                    15,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "glac fondr chocolat croqu bainmar cuil soup eau beurr",
+        {
+            "entities": [
+                [
+                    0,
+                    4,
+                    "INGREDIENT"
+                ],
+                [
+                    11,
+                    19,
+                    "INGREDIENT"
+                ],
+                [
+                    20,
+                    25,
+                    "INGREDIENT"
+                ],
+                [
+                    39,
+                    43,
+                    "INGREDIENT"
+                ],
+                [
+                    44,
+                    47,
+                    "INGREDIENT"
+                ],
+                [
+                    48,
+                    53,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "ajout sucr glac tamis obten bouill \u00e9paiss",
+        {
+            "entities": [
+                [
+                    6,
+                    10,
+                    "INGREDIENT"
+                ],
+                [
+                    11,
+                    15,
+                    "INGREDIENT"
+                ],
+                [
+                    28,
+                    34,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "rang hareng plat genr plat pyrex",
+        {
+            "entities": [
+                [
+                    5,
+                    11,
+                    "INGREDIENT"
+                ],
+                [
+                    17,
+                    21,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "vers m\u00e9lang hareng plac plat feu fair cuir feu petit dizain minut",
+        {
+            "entities": [
+                [
+                    12,
+                    18,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "saupoudr steak poivr concass fair p\u00e9netr tass pilon",
+        {
+            "entities": [
+                [
+                    9,
+                    14,
+                    "INGREDIENT"
+                ],
+                [
+                    15,
+                    20,
+                    "INGREDIENT"
+                ],
+                [
+                    41,
+                    45,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "fair chauff po\u00eal cuir steak feu",
+        {
+            "entities": [
+                [
+                    22,
+                    27,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "cuisson arros cognac fair flamb",
+        {
+            "entities": [
+                [
+                    14,
+                    20,
+                    "INGREDIENT"
+                ],
+                [
+                    26,
+                    31,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "retir steak gard",
+        {
+            "entities": [
+                [
+                    6,
+                    11,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "d\u00e9glac po\u00eal crem fra\u00eech",
+        {
+            "entities": [
+                [
+                    12,
+                    16,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "sal",
+        {
+            "entities": [
+                [
+                    0,
+                    3,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "m\u00e9lang cuiller caf ma\u00efzen centilitr cognac",
+        {
+            "entities": [
+                [
+                    15,
+                    18,
+                    "INGREDIENT"
+                ],
+                [
+                    19,
+                    25,
+                    "INGREDIENT"
+                ],
+                [
+                    36,
+                    42,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "vers po\u00eal tourn \u00e9paiss sauc",
+        {
+            "entities": [
+                [
+                    23,
+                    27,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "vers steak serv",
+        {
+            "entities": [
+                [
+                    5,
+                    10,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "roug cors",
+        {
+            "entities": [
+                [
+                    5,
+                    9,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "cuir asperg vert eau bouill sal pouv utilis asperg bo\u00eet conserv",
+        {
+            "entities": [
+                [
+                    5,
+                    11,
+                    "INGREDIENT"
+                ],
+                [
+                    17,
+                    20,
+                    "INGREDIENT"
+                ],
+                [
+                    21,
+                    27,
+                    "INGREDIENT"
+                ],
+                [
+                    28,
+                    31,
+                    "INGREDIENT"
+                ],
+                [
+                    44,
+                    50,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "egouttezl mixezl m\u00e9langezl oeuf battus crem fraich fromag r\u00e2p",
+        {
+            "entities": [
+                [
+                    27,
+                    31,
+                    "INGREDIENT"
+                ],
+                [
+                    39,
+                    43,
+                    "INGREDIENT"
+                ],
+                [
+                    51,
+                    57,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "sal poivr",
+        {
+            "entities": [
+                [
+                    0,
+                    3,
+                    "INGREDIENT"
+                ],
+                [
+                    4,
+                    9,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "etal fond tart garn pr\u00e9par pr\u00e9c\u00e9dent",
+        {
+            "entities": [
+                [
+                    10,
+                    14,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "d\u00e9bit entier courget lamel tagliatel aid couteau \u00e9conom",
+        {
+            "entities": [
+                [
+                    13,
+                    20,
+                    "INGREDIENT"
+                ],
+                [
+                    27,
+                    36,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "inutil \u00e9pluch courget",
+        {
+            "entities": [
+                [
+                    14,
+                    21,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "fair cuir vapeur min ustensil cuisson vapeur mettr glac import",
+        {
+            "entities": [
+                [
+                    51,
+                    55,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "serv salad fra\u00eech tagliatel courget arros huil oliv citron sel poivr ail aim",
+        {
+            "entities": [
+                [
+                    5,
+                    10,
+                    "INGREDIENT"
+                ],
+                [
+                    18,
+                    27,
+                    "INGREDIENT"
+                ],
+                [
+                    28,
+                    35,
+                    "INGREDIENT"
+                ],
+                [
+                    42,
+                    46,
+                    "INGREDIENT"
+                ],
+                [
+                    47,
+                    51,
+                    "INGREDIENT"
+                ],
+                [
+                    52,
+                    58,
+                    "INGREDIENT"
+                ],
+                [
+                    59,
+                    62,
+                    "INGREDIENT"
+                ],
+                [
+                    63,
+                    68,
+                    "INGREDIENT"
+                ],
+                [
+                    69,
+                    72,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "fach courget",
+        {
+            "entities": [
+                [
+                    5,
+                    12,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "m\u00e9lang main obten p\u00e2t coll",
+        {
+            "entities": [
+                [
+                    18,
+                    21,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "aplat p\u00e2t verr fair biscuit rond",
+        {
+            "entities": [
+                [
+                    6,
+                    9,
+                    "INGREDIENT"
+                ],
+                [
+                    20,
+                    27,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "estim cuisson couleur sabl",
+        {
+            "entities": [
+                [
+                    22,
+                    26,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "cass oeuf incorpor farin",
+        {
+            "entities": [
+                [
+                    0,
+                    4,
+                    "INGREDIENT"
+                ],
+                [
+                    5,
+                    9,
+                    "INGREDIENT"
+                ],
+                [
+                    19,
+                    24,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "ajout lait gruyer comt",
+        {
+            "entities": [
+                [
+                    6,
+                    10,
+                    "INGREDIENT"
+                ],
+                [
+                    11,
+                    17,
+                    "INGREDIENT"
+                ],
+                [
+                    18,
+                    22,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "ajout lardon ingr\u00e9dient",
+        {
+            "entities": [
+                [
+                    6,
+                    12,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "enlev intestin calmar pelezl",
+        {
+            "entities": [
+                [
+                    15,
+                    21,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "lavezl eau cour",
+        {
+            "entities": [
+                [
+                    7,
+                    10,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "vers eau casserol mettezy ingr\u00e9dient pr\u00e9par",
+        {
+            "entities": [
+                [
+                    5,
+                    8,
+                    "INGREDIENT"
+                ],
+                [
+                    9,
+                    17,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "ajoutezy ail \u00e9cras piment sucr poivr sauc soj huil sesam",
+        {
+            "entities": [
+                [
+                    9,
+                    12,
+                    "INGREDIENT"
+                ],
+                [
+                    19,
+                    25,
+                    "INGREDIENT"
+                ],
+                [
+                    26,
+                    30,
+                    "INGREDIENT"
+                ],
+                [
+                    31,
+                    36,
+                    "INGREDIENT"
+                ],
+                [
+                    37,
+                    41,
+                    "INGREDIENT"
+                ],
+                [
+                    42,
+                    45,
+                    "INGREDIENT"
+                ],
+                [
+                    46,
+                    50,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "continu bouill feu moyen tourn cuiller bois ingr\u00e9dient cuit",
+        {
+            "entities": [
+                [
+                    8,
+                    14,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "supprim bouillon \u00e9bullit",
+        {
+            "entities": [
+                [
+                    8,
+                    16,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "accompagn plat riz rond kimch choux \u00e9pic algu",
+        {
+            "entities": [
+                [
+                    15,
+                    18,
+                    "INGREDIENT"
+                ],
+                [
+                    30,
+                    35,
+                    "INGREDIENT"
+                ],
+                [
+                    36,
+                    40,
+                    "INGREDIENT"
+                ],
+                [
+                    41,
+                    45,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "poch saucisson minut enlev peau",
+        {
+            "entities": [
+                [
+                    5,
+                    14,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "vers ingr\u00e9dient r\u00e9cipient m\u00e9lang obten p\u00e2t liss",
+        {
+            "entities": [
+                [
+                    39,
+                    42,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "plat cak vers moiti p\u00e2t mettr saucisson vers p\u00e2t",
+        {
+            "entities": [
+                [
+                    5,
+                    8,
+                    "INGREDIENT"
+                ],
+                [
+                    20,
+                    23,
+                    "INGREDIENT"
+                ],
+                [
+                    30,
+                    39,
+                    "INGREDIENT"
+                ],
+                [
+                    45,
+                    48,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "mang",
+        {
+            "entities": [
+                [
+                    0,
+                    4,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "ros chinon provenc",
+        {
+            "entities": [
+                [
+                    0,
+                    3,
+                    "INGREDIENT"
+                ],
+                [
+                    11,
+                    18,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "pr\u00e9par p\u00e2t bris m\u00e9lang ingr\u00e9dient farin beurr sucr sel oeuf",
+        {
+            "entities": [
+                [
+                    7,
+                    10,
+                    "INGREDIENT"
+                ],
+                [
+                    11,
+                    15,
+                    "INGREDIENT"
+                ],
+                [
+                    34,
+                    39,
+                    "INGREDIENT"
+                ],
+                [
+                    40,
+                    45,
+                    "INGREDIENT"
+                ],
+                [
+                    46,
+                    50,
+                    "INGREDIENT"
+                ],
+                [
+                    51,
+                    54,
+                    "INGREDIENT"
+                ],
+                [
+                    55,
+                    59,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "petr p\u00e2t instant rajout farin besoin obtent bel boul \u00e9paiss coll",
+        {
+            "entities": [
+                [
+                    5,
+                    8,
+                    "INGREDIENT"
+                ],
+                [
+                    24,
+                    29,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "etalezl rouleau disposezl moul tart beurr farin",
+        {
+            "entities": [
+                [
+                    26,
+                    30,
+                    "INGREDIENT"
+                ],
+                [
+                    31,
+                    35,
+                    "INGREDIENT"
+                ],
+                [
+                    36,
+                    41,
+                    "INGREDIENT"
+                ],
+                [
+                    42,
+                    47,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "piquezl fourchet cuir blanc four poid pos ex haricot blanc min",
+        {
+            "entities": [
+                [
+                    45,
+                    52,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "pr\u00e9par coul chauff casserol sirop \u00e9rabl sucr f\u00e9cul m\u00e9lang eau",
+        {
+            "entities": [
+                [
+                    7,
+                    11,
+                    "INGREDIENT"
+                ],
+                [
+                    19,
+                    27,
+                    "INGREDIENT"
+                ],
+                [
+                    28,
+                    33,
+                    "INGREDIENT"
+                ],
+                [
+                    34,
+                    39,
+                    "INGREDIENT"
+                ],
+                [
+                    40,
+                    44,
+                    "INGREDIENT"
+                ],
+                [
+                    45,
+                    50,
+                    "INGREDIENT"
+                ],
+                [
+                    58,
+                    61,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "remu cess fouet cr\u00e9 grumeau obten coul liss",
+        {
+            "entities": [
+                [
+                    34,
+                    38,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "vers coul \u00e9paiss fond tart dispos noix p\u00e9can entier concass surfac",
+        {
+            "entities": [
+                [
+                    5,
+                    9,
+                    "INGREDIENT"
+                ],
+                [
+                    22,
+                    26,
+                    "INGREDIENT"
+                ],
+                [
+                    34,
+                    38,
+                    "INGREDIENT"
+                ],
+                [
+                    39,
+                    44,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "saupoudr cuiller sucr vanill cassonad",
+        {
+            "entities": [
+                [
+                    17,
+                    21,
+                    "INGREDIENT"
+                ],
+                [
+                    22,
+                    28,
+                    "INGREDIENT"
+                ],
+                [
+                    29,
+                    37,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "serv tart boul glac vanill",
+        {
+            "entities": [
+                [
+                    5,
+                    9,
+                    "INGREDIENT"
+                ],
+                [
+                    15,
+                    19,
+                    "INGREDIENT"
+                ],
+                [
+                    20,
+                    26,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "prendr saladi mettr farin sucr oeuf huil lait",
+        {
+            "entities": [
+                [
+                    7,
+                    13,
+                    "INGREDIENT"
+                ],
+                [
+                    20,
+                    25,
+                    "INGREDIENT"
+                ],
+                [
+                    26,
+                    30,
+                    "INGREDIENT"
+                ],
+                [
+                    31,
+                    35,
+                    "INGREDIENT"
+                ],
+                [
+                    36,
+                    40,
+                    "INGREDIENT"
+                ],
+                [
+                    41,
+                    45,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "mettr plat tart beurr ajout fruit petit d\u00e9 fair cuir four moyen",
+        {
+            "entities": [
+                [
+                    11,
+                    15,
+                    "INGREDIENT"
+                ],
+                [
+                    16,
+                    21,
+                    "INGREDIENT"
+                ],
+                [
+                    28,
+                    33,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "quart cuisson ajout oeuf battu cuiller sucr",
+        {
+            "entities": [
+                [
+                    20,
+                    24,
+                    "INGREDIENT"
+                ],
+                [
+                    39,
+                    43,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "mang",
+        {
+            "entities": [
+                [
+                    0,
+                    4,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "d\u00e9coup poulet",
+        {
+            "entities": [
+                [
+                    7,
+                    13,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "fair reven morceau beurr",
+        {
+            "entities": [
+                [
+                    19,
+                    24,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "sort sal poivr",
+        {
+            "entities": [
+                [
+                    5,
+                    8,
+                    "INGREDIENT"
+                ],
+                [
+                    9,
+                    14,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "fair reven \u00e9chalot ajout cognac poel",
+        {
+            "entities": [
+                [
+                    11,
+                    18,
+                    "INGREDIENT"
+                ],
+                [
+                    25,
+                    31,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "remettr poulet vin fair mijot heur",
+        {
+            "entities": [
+                [
+                    8,
+                    14,
+                    "INGREDIENT"
+                ],
+                [
+                    15,
+                    18,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "temp fair reven champignon sal poivr",
+        {
+            "entities": [
+                [
+                    16,
+                    26,
+                    "INGREDIENT"
+                ],
+                [
+                    27,
+                    30,
+                    "INGREDIENT"
+                ],
+                [
+                    31,
+                    36,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "poulet sort gard",
+        {
+            "entities": [
+                [
+                    0,
+                    6,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "pr\u00e9par b\u00e9chamel jus crem champigon",
+        {
+            "entities": [
+                [
+                    7,
+                    15,
+                    "INGREDIENT"
+                ],
+                [
+                    16,
+                    19,
+                    "INGREDIENT"
+                ],
+                [
+                    20,
+                    24,
+                    "INGREDIENT"
+                ],
+                [
+                    25,
+                    34,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "serv nouill",
+        {
+            "entities": [
+                [
+                    5,
+                    11,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "riesling",
+        {
+            "entities": [
+                [
+                    0,
+                    8,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "vers plui sucr sel farin amand continu battr",
+        {
+            "entities": [
+                [
+                    10,
+                    14,
+                    "INGREDIENT"
+                ],
+                [
+                    15,
+                    18,
+                    "INGREDIENT"
+                ],
+                [
+                    19,
+                    24,
+                    "INGREDIENT"
+                ],
+                [
+                    25,
+                    30,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "ajout beurr fondu",
+        {
+            "entities": [
+                [
+                    6,
+                    11,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "d\u00e9pos petit tas cuiller t\u00f4l beurr",
+        {
+            "entities": [
+                [
+                    28,
+                    33,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "s\u00e9par chapeau tig champignon",
+        {
+            "entities": [
+                [
+                    18,
+                    28,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "arros chapeau huil oliv grill four mn cot",
+        {
+            "entities": [
+                [
+                    14,
+                    18,
+                    "INGREDIENT"
+                ],
+                [
+                    19,
+                    23,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "tempsl\u00e0 fair saut morceau tig bacon lard poel antiadhes",
+        {
+            "entities": [
+                [
+                    30,
+                    35,
+                    "INGREDIENT"
+                ],
+                [
+                    36,
+                    40,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "m\u00e9lang ensembl bacon lard tig champigon chapelur noix moiti gruyer",
+        {
+            "entities": [
+                [
+                    15,
+                    20,
+                    "INGREDIENT"
+                ],
+                [
+                    21,
+                    25,
+                    "INGREDIENT"
+                ],
+                [
+                    30,
+                    39,
+                    "INGREDIENT"
+                ],
+                [
+                    40,
+                    48,
+                    "INGREDIENT"
+                ],
+                [
+                    49,
+                    53,
+                    "INGREDIENT"
+                ],
+                [
+                    60,
+                    66,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "saupoudr gruyer",
+        {
+            "entities": [
+                [
+                    9,
+                    15,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "pel fruit coupezl gros cub oper fruit noirc",
+        {
+            "entities": [
+                [
+                    4,
+                    9,
+                    "INGREDIENT"
+                ],
+                [
+                    32,
+                    37,
+                    "INGREDIENT"
+                ],
+                [
+                    38,
+                    43,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "po\u00ealon servic fondu vers crem fra\u00eech",
+        {
+            "entities": [
+                [
+                    25,
+                    29,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "crem fond ajout chocolat cass petit morceau",
+        {
+            "entities": [
+                [
+                    0,
+                    4,
+                    "INGREDIENT"
+                ],
+                [
+                    16,
+                    24,
+                    "INGREDIENT"
+                ],
+                [
+                    25,
+                    29,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "remu obtent chocolat fondu homogen",
+        {
+            "entities": [
+                [
+                    12,
+                    20,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "incorpor armagnac",
+        {
+            "entities": [
+                [
+                    9,
+                    17,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "conviv tremp morceau fruit chocolat gr\u00e9 fantais d\u00e9gust morceau brioch",
+        {
+            "entities": [
+                [
+                    21,
+                    26,
+                    "INGREDIENT"
+                ],
+                [
+                    27,
+                    35,
+                    "INGREDIENT"
+                ],
+                [
+                    63,
+                    69,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "cocott dispos morceau viand",
+        {
+            "entities": [
+                [
+                    22,
+                    27,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "mouill bouteil vin blanc complet eau froid",
+        {
+            "entities": [
+                [
+                    15,
+                    18,
+                    "INGREDIENT"
+                ],
+                [
+                    33,
+                    36,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "ajout carott coup rondel oignon coup garn oignon piqu clous girofl",
+        {
+            "entities": [
+                [
+                    6,
+                    12,
+                    "INGREDIENT"
+                ],
+                [
+                    25,
+                    31,
+                    "INGREDIENT"
+                ],
+                [
+                    42,
+                    48,
+                    "INGREDIENT"
+                ],
+                [
+                    54,
+                    59,
+                    "INGREDIENT"
+                ],
+                [
+                    60,
+                    66,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "assaison bouillon poul sel poivr",
+        {
+            "entities": [
+                [
+                    9,
+                    17,
+                    "INGREDIENT"
+                ],
+                [
+                    18,
+                    22,
+                    "INGREDIENT"
+                ],
+                [
+                    23,
+                    26,
+                    "INGREDIENT"
+                ],
+                [
+                    27,
+                    32,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "port ensembl \u00e9bullit feu r\u00e9duir feu \u00e9cum soigneux complet pr\u00e9par",
+        {
+            "entities": [
+                [
+                    0,
+                    4,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "aid passoir s\u00e9par viand l\u00e9gum bouillon",
+        {
+            "entities": [
+                [
+                    18,
+                    23,
+                    "INGREDIENT"
+                ],
+                [
+                    24,
+                    29,
+                    "INGREDIENT"
+                ],
+                [
+                    30,
+                    38,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "ret garn oignon piqu clous girofl r\u00e9serv viand",
+        {
+            "entities": [
+                [
+                    9,
+                    15,
+                    "INGREDIENT"
+                ],
+                [
+                    21,
+                    26,
+                    "INGREDIENT"
+                ],
+                [
+                    27,
+                    33,
+                    "INGREDIENT"
+                ],
+                [
+                    41,
+                    46,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "casserol feu roux blond m\u00e9lang farin beurr fondu",
+        {
+            "entities": [
+                [
+                    0,
+                    8,
+                    "INGREDIENT"
+                ],
+                [
+                    18,
+                    23,
+                    "INGREDIENT"
+                ],
+                [
+                    31,
+                    36,
+                    "INGREDIENT"
+                ],
+                [
+                    37,
+                    42,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "bas roux homogen ajoutezy pet pet bouillon tourn spatul obten litr sauc velout",
+        {
+            "entities": [
+                [
+                    34,
+                    42,
+                    "INGREDIENT"
+                ],
+                [
+                    67,
+                    71,
+                    "INGREDIENT"
+                ],
+                [
+                    72,
+                    78,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "versezl viand cocott ajoutezy vinaigr citron remet cocott feu demiheur",
+        {
+            "entities": [
+                [
+                    8,
+                    13,
+                    "INGREDIENT"
+                ],
+                [
+                    30,
+                    37,
+                    "INGREDIENT"
+                ],
+                [
+                    38,
+                    44,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "serv liaison oeuf secret sauc",
+        {
+            "entities": [
+                [
+                    13,
+                    17,
+                    "INGREDIENT"
+                ],
+                [
+                    25,
+                    29,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "r\u00e9uss coup s\u00fbr utilis astuc d\u00e9lai jaun oeuf port temp\u00e9ratur ambi verr bouillon incorpor recet remu feu",
+        {
+            "entities": [
+                [
+                    34,
+                    38,
+                    "INGREDIENT"
+                ],
+                [
+                    39,
+                    43,
+                    "INGREDIENT"
+                ],
+                [
+                    44,
+                    48,
+                    "INGREDIENT"
+                ],
+                [
+                    70,
+                    78,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "serv pomm terr cuit vapeur riz",
+        {
+            "entities": [
+                [
+                    5,
+                    9,
+                    "INGREDIENT"
+                ],
+                [
+                    10,
+                    14,
+                    "INGREDIENT"
+                ],
+                [
+                    27,
+                    30,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "vers moul cak",
+        {
+            "entities": [
+                [
+                    5,
+                    9,
+                    "INGREDIENT"
+                ],
+                [
+                    10,
+                    13,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "fair fruit mer exempl",
+        {
+            "entities": [
+                [
+                    5,
+                    10,
+                    "INGREDIENT"
+                ],
+                [
+                    11,
+                    14,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "fair cuir beurr eau",
+        {
+            "entities": [
+                [
+                    10,
+                    15,
+                    "INGREDIENT"
+                ],
+                [
+                    16,
+                    19,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "ajout farin coup m\u00e9lang vigour",
+        {
+            "entities": [
+                [
+                    6,
+                    11,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "retir feu ajout \u0153uf",
+        {
+            "entities": [
+                [
+                    16,
+                    19,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "form couron p\u00e2t mettr four moyen minut",
+        {
+            "entities": [
+                [
+                    5,
+                    11,
+                    "INGREDIENT"
+                ],
+                [
+                    12,
+                    15,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "crem battr jaun sucr ma\u00efzen",
+        {
+            "entities": [
+                [
+                    0,
+                    4,
+                    "INGREDIENT"
+                ],
+                [
+                    11,
+                    15,
+                    "INGREDIENT"
+                ],
+                [
+                    16,
+                    20,
+                    "INGREDIENT"
+                ],
+                [
+                    21,
+                    27,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "fair bouill lait caf",
+        {
+            "entities": [
+                [
+                    5,
+                    11,
+                    "INGREDIENT"
+                ],
+                [
+                    12,
+                    16,
+                    "INGREDIENT"
+                ],
+                [
+                    17,
+                    20,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "commenc bouill retir feu laiss refroid ajout blanc fouet",
+        {
+            "entities": [
+                [
+                    8,
+                    14,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "coup couron moiti",
+        {
+            "entities": [
+                [
+                    5,
+                    11,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "farc moiti crem couvr moiti",
+        {
+            "entities": [
+                [
+                    11,
+                    15,
+                    "INGREDIENT"
+                ],
+                [
+                    16,
+                    21,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "d\u00e9cor sucr poudr filet amand",
+        {
+            "entities": [
+                [
+                    6,
+                    10,
+                    "INGREDIENT"
+                ],
+                [
+                    11,
+                    16,
+                    "INGREDIENT"
+                ],
+                [
+                    17,
+                    22,
+                    "INGREDIENT"
+                ],
+                [
+                    23,
+                    28,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "pel potiron coup gros d\u00e9",
+        {
+            "entities": [
+                [
+                    4,
+                    11,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "ecras potiron fourchet jatt",
+        {
+            "entities": [
+                [
+                    6,
+                    13,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "battr sommair oeuf lait poudr incorpor pur rajout sel \u00e9pic",
+        {
+            "entities": [
+                [
+                    14,
+                    18,
+                    "INGREDIENT"
+                ],
+                [
+                    19,
+                    23,
+                    "INGREDIENT"
+                ],
+                [
+                    24,
+                    29,
+                    "INGREDIENT"
+                ],
+                [
+                    50,
+                    53,
+                    "INGREDIENT"
+                ],
+                [
+                    54,
+                    58,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "saupoudr fromag r\u00e2p fair gratin gril four couleur souhait",
+        {
+            "entities": [
+                [
+                    9,
+                    15,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "accompagn harmoni viand poisson grill frit",
+        {
+            "entities": [
+                [
+                    18,
+                    23,
+                    "INGREDIENT"
+                ],
+                [
+                    24,
+                    31,
+                    "INGREDIENT"
+                ],
+                [
+                    38,
+                    42,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "saladi \u00e9vas battr beurr obten prepar cr\u00e9meux",
+        {
+            "entities": [
+                [
+                    0,
+                    6,
+                    "INGREDIENT"
+                ],
+                [
+                    18,
+                    23,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "ajout sucr batt",
+        {
+            "entities": [
+                [
+                    6,
+                    10,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "vers farin farin riz semoul m\u00e9lang",
+        {
+            "entities": [
+                [
+                    5,
+                    10,
+                    "INGREDIENT"
+                ],
+                [
+                    11,
+                    16,
+                    "INGREDIENT"
+                ],
+                [
+                    17,
+                    20,
+                    "INGREDIENT"
+                ],
+                [
+                    21,
+                    27,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "tass pr\u00e9par moul rond diametr fond amovibl",
+        {
+            "entities": [
+                [
+                    0,
+                    4,
+                    "INGREDIENT"
+                ],
+                [
+                    12,
+                    16,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "saupoudr surfac shortbread couch suppl\u00e9mentair sucr poudr enfourn temp dor",
+        {
+            "entities": [
+                [
+                    47,
+                    51,
+                    "INGREDIENT"
+                ],
+                [
+                    52,
+                    57,
+                    "INGREDIENT"
+                ],
+                [
+                    71,
+                    74,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "g\u00e2teau retir fond amovibl moul d\u00e9coup quarti",
+        {
+            "entities": [
+                [
+                    0,
+                    6,
+                    "INGREDIENT"
+                ],
+                [
+                    26,
+                    30,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "tard g\u00e2teau mettr grill saupoudr sucr",
+        {
+            "entities": [
+                [
+                    5,
+                    11,
+                    "INGREDIENT"
+                ],
+                [
+                    33,
+                    37,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "obten fin utilis sucr glac",
+        {
+            "entities": [
+                [
+                    17,
+                    21,
+                    "INGREDIENT"
+                ],
+                [
+                    22,
+                    26,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "mantecao r\u00e9alis part p\u00e2t sabl remplac beurr saindoux",
+        {
+            "entities": [
+                [
+                    21,
+                    24,
+                    "INGREDIENT"
+                ],
+                [
+                    25,
+                    29,
+                    "INGREDIENT"
+                ],
+                [
+                    38,
+                    43,
+                    "INGREDIENT"
+                ],
+                [
+                    44,
+                    52,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "fair p\u00e2t sabl m\u00e9lang farin saindoux coup pet morceau sucr",
+        {
+            "entities": [
+                [
+                    5,
+                    8,
+                    "INGREDIENT"
+                ],
+                [
+                    9,
+                    13,
+                    "INGREDIENT"
+                ],
+                [
+                    21,
+                    26,
+                    "INGREDIENT"
+                ],
+                [
+                    27,
+                    35,
+                    "INGREDIENT"
+                ],
+                [
+                    53,
+                    57,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "travaill p\u00e2t bout doigt p\u00e2t devien sableux \u00e9vit devien coll",
+        {
+            "entities": [
+                [
+                    9,
+                    12,
+                    "INGREDIENT"
+                ],
+                [
+                    24,
+                    27,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "dispos plaqu allant four petit boul p\u00e2t aplat centr petit d\u00f4m",
+        {
+            "entities": [
+                [
+                    36,
+                    39,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "saupoudr cannel enfourn",
+        {
+            "entities": [
+                [
+                    9,
+                    15,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "remarqu saindoux graiss porc trouv bloc rayon",
+        {
+            "entities": [
+                [
+                    8,
+                    16,
+                    "INGREDIENT"
+                ],
+                [
+                    17,
+                    23,
+                    "INGREDIENT"
+                ],
+                [
+                    24,
+                    28,
+                    "INGREDIENT"
+                ],
+                [
+                    40,
+                    45,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "coup saumon mettr r\u00e9friger pass mixeur cognac",
+        {
+            "entities": [
+                [
+                    5,
+                    11,
+                    "INGREDIENT"
+                ],
+                [
+                    27,
+                    31,
+                    "INGREDIENT"
+                ],
+                [
+                    39,
+                    45,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "soup crem",
+        {
+            "entities": [
+                [
+                    0,
+                    4,
+                    "INGREDIENT"
+                ],
+                [
+                    5,
+                    9,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "mettr terrin",
+        {
+            "entities": [
+                [
+                    6,
+                    12,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "d\u00e9lai gel eau bouill refroid ajout pur saumon cess remu fouet",
+        {
+            "entities": [
+                [
+                    10,
+                    13,
+                    "INGREDIENT"
+                ],
+                [
+                    14,
+                    20,
+                    "INGREDIENT"
+                ],
+                [
+                    39,
+                    45,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "incorpor crem fouet rempl terrin prendr heur",
+        {
+            "entities": [
+                [
+                    9,
+                    13,
+                    "INGREDIENT"
+                ],
+                [
+                    26,
+                    32,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "garn fin tranch saumon roul",
+        {
+            "entities": [
+                [
+                    9,
+                    15,
+                    "INGREDIENT"
+                ],
+                [
+                    16,
+                    22,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "serv toast beurr",
+        {
+            "entities": [
+                [
+                    5,
+                    10,
+                    "INGREDIENT"
+                ],
+                [
+                    11,
+                    16,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "serv entr\u00e9 mouss",
+        {
+            "entities": [
+                [
+                    11,
+                    16,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "pr\u00e9par mouss veil",
+        {
+            "entities": [
+                [
+                    7,
+                    12,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "ndlr recet noel bas saumon",
+        {
+            "entities": [
+                [
+                    20,
+                    26,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "veil mettr \u0153uf coquill truff entier bo\u00eet hermet",
+        {
+            "entities": [
+                [
+                    11,
+                    14,
+                    "INGREDIENT"
+                ],
+                [
+                    15,
+                    22,
+                    "INGREDIENT"
+                ],
+                [
+                    23,
+                    28,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "coquill \u0153uf laiss pass truff impregn d\u00e9licat",
+        {
+            "entities": [
+                [
+                    0,
+                    7,
+                    "INGREDIENT"
+                ],
+                [
+                    8,
+                    11,
+                    "INGREDIENT"
+                ],
+                [
+                    18,
+                    22,
+                    "INGREDIENT"
+                ],
+                [
+                    23,
+                    28,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "ajout papi absorb emp\u00each exc\u00e9dent humid truff",
+        {
+            "entities": [
+                [
+                    40,
+                    45,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "lendemain coup truff julien cass \u0153uf battr cuir",
+        {
+            "entities": [
+                [
+                    15,
+                    20,
+                    "INGREDIENT"
+                ],
+                [
+                    21,
+                    27,
+                    "INGREDIENT"
+                ],
+                [
+                    28,
+                    32,
+                    "INGREDIENT"
+                ],
+                [
+                    33,
+                    36,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "omelet ajout truff cuisson truff bourgogn support cuisson perd chauff",
+        {
+            "entities": [
+                [
+                    0,
+                    6,
+                    "INGREDIENT"
+                ],
+                [
+                    13,
+                    18,
+                    "INGREDIENT"
+                ],
+                [
+                    27,
+                    32,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "truff bourgogn",
+        {
+            "entities": [
+                [
+                    0,
+                    5,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "portit franc maximum",
+        {
+            "entities": [
+                [
+                    7,
+                    12,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "truff bourgogn saison organison stag cuisin truff www",
+        {
+            "entities": [
+                [
+                    0,
+                    5,
+                    "INGREDIENT"
+                ],
+                [
+                    37,
+                    43,
+                    "INGREDIENT"
+                ],
+                [
+                    44,
+                    49,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "mettr moru dessal matin chang eau milieu journ",
+        {
+            "entities": [
+                [
+                    6,
+                    10,
+                    "INGREDIENT"
+                ],
+                [
+                    30,
+                    33,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "mettr poisson casserol eau froid fair d\u00e9marr feu",
+        {
+            "entities": [
+                [
+                    6,
+                    13,
+                    "INGREDIENT"
+                ],
+                [
+                    14,
+                    22,
+                    "INGREDIENT"
+                ],
+                [
+                    23,
+                    26,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "bull forment bord retir feu moru bouill",
+        {
+            "entities": [
+                [
+                    28,
+                    32,
+                    "INGREDIENT"
+                ],
+                [
+                    33,
+                    39,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "fair fondr beurr casserol m\u00e9lang farin remettr moru \u00e9cras m\u00e9lang rectifi sel poivr",
+        {
+            "entities": [
+                [
+                    11,
+                    16,
+                    "INGREDIENT"
+                ],
+                [
+                    17,
+                    25,
+                    "INGREDIENT"
+                ],
+                [
+                    33,
+                    38,
+                    "INGREDIENT"
+                ],
+                [
+                    47,
+                    51,
+                    "INGREDIENT"
+                ],
+                [
+                    73,
+                    76,
+                    "INGREDIENT"
+                ],
+                [
+                    77,
+                    82,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "rempl plat gratin mass saupoudr chapelur dispos flocon beurr fair gratin four moyen dem heur",
+        {
+            "entities": [
+                [
+                    32,
+                    40,
+                    "INGREDIENT"
+                ],
+                [
+                    48,
+                    54,
+                    "INGREDIENT"
+                ],
+                [
+                    55,
+                    60,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "\u00e9pluch pomm terr fair pr\u00e9cuir minut fair pur",
+        {
+            "entities": [
+                [
+                    7,
+                    11,
+                    "INGREDIENT"
+                ],
+                [
+                    12,
+                    16,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "coup pomm terr d\u00e9 fair couch plat",
+        {
+            "entities": [
+                [
+                    5,
+                    9,
+                    "INGREDIENT"
+                ],
+                [
+                    10,
+                    14,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "poivr",
+        {
+            "entities": [
+                [
+                    0,
+                    5,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "pos couch saumon mettr crem fraich ajout fromag r\u00e2p",
+        {
+            "entities": [
+                [
+                    10,
+                    16,
+                    "INGREDIENT"
+                ],
+                [
+                    23,
+                    27,
+                    "INGREDIENT"
+                ],
+                [
+                    41,
+                    47,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "fin couch pomm terr crem fra\u00eech fromag",
+        {
+            "entities": [
+                [
+                    10,
+                    14,
+                    "INGREDIENT"
+                ],
+                [
+                    15,
+                    19,
+                    "INGREDIENT"
+                ],
+                [
+                    20,
+                    24,
+                    "INGREDIENT"
+                ],
+                [
+                    32,
+                    38,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "rajout lait",
+        {
+            "entities": [
+                [
+                    7,
+                    11,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "vin roug",
+        {
+            "entities": [
+                [
+                    0,
+                    3,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "tamis farin sel terrin",
+        {
+            "entities": [
+                [
+                    6,
+                    11,
+                    "INGREDIENT"
+                ],
+                [
+                    12,
+                    15,
+                    "INGREDIENT"
+                ],
+                [
+                    16,
+                    22,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "cass oeuf entier jaun ajout beurr petit morceau miel m\u00e9lang bout doigt",
+        {
+            "entities": [
+                [
+                    0,
+                    4,
+                    "INGREDIENT"
+                ],
+                [
+                    5,
+                    9,
+                    "INGREDIENT"
+                ],
+                [
+                    17,
+                    21,
+                    "INGREDIENT"
+                ],
+                [
+                    28,
+                    33,
+                    "INGREDIENT"
+                ],
+                [
+                    48,
+                    52,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "fair dissoudr levur lait died vers p\u00e2t soup aniset",
+        {
+            "entities": [
+                [
+                    14,
+                    19,
+                    "INGREDIENT"
+                ],
+                [
+                    20,
+                    24,
+                    "INGREDIENT"
+                ],
+                [
+                    35,
+                    38,
+                    "INGREDIENT"
+                ],
+                [
+                    39,
+                    43,
+                    "INGREDIENT"
+                ],
+                [
+                    44,
+                    50,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "petr incorpor c\u00e9drat conf coup petit d\u00e9",
+        {
+            "entities": [
+                [
+                    21,
+                    25,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "m\u00e9lang fair boul p\u00e2t lev heur jatt couvert ling temp\u00e9ratur ambi",
+        {
+            "entities": [
+                [
+                    17,
+                    20,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "abaiss p\u00e2t cm",
+        {
+            "entities": [
+                [
+                    7,
+                    10,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "\u00e9paisseur coup lani cm long soud form couron",
+        {
+            "entities": [
+                [
+                    15,
+                    19,
+                    "INGREDIENT"
+                ],
+                [
+                    28,
+                    32,
+                    "INGREDIENT"
+                ],
+                [
+                    38,
+                    44,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "beurr beurr farin plaqu p\u00e2tisser d\u00e9pos couron mettr four mn baiss thermostat",
+        {
+            "entities": [
+                [
+                    0,
+                    5,
+                    "INGREDIENT"
+                ],
+                [
+                    6,
+                    11,
+                    "INGREDIENT"
+                ],
+                [
+                    12,
+                    17,
+                    "INGREDIENT"
+                ],
+                [
+                    24,
+                    32,
+                    "INGREDIENT"
+                ],
+                [
+                    39,
+                    45,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "temp vers sucr glac blanc oeuf m\u00e9lang napp rousquill tied",
+        {
+            "entities": [
+                [
+                    10,
+                    14,
+                    "INGREDIENT"
+                ],
+                [
+                    15,
+                    19,
+                    "INGREDIENT"
+                ],
+                [
+                    26,
+                    30,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "mettr semoul",
+        {
+            "entities": [
+                [
+                    6,
+                    12,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "huil",
+        {
+            "entities": [
+                [
+                    0,
+                    4,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "eau bouill",
+        {
+            "entities": [
+                [
+                    0,
+                    3,
+                    "INGREDIENT"
+                ],
+                [
+                    4,
+                    10,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "laiss semoul prendr consist",
+        {
+            "entities": [
+                [
+                    6,
+                    12,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "fair reven mergu po\u00eal r\u00e9servezl",
+        {
+            "entities": [
+                [
+                    11,
+                    16,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "reven cuiss poulet feu beurr",
+        {
+            "entities": [
+                [
+                    6,
+                    11,
+                    "INGREDIENT"
+                ],
+                [
+                    12,
+                    18,
+                    "INGREDIENT"
+                ],
+                [
+                    23,
+                    28,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "cuis cuiss poulet eau cuir",
+        {
+            "entities": [
+                [
+                    5,
+                    10,
+                    "INGREDIENT"
+                ],
+                [
+                    11,
+                    17,
+                    "INGREDIENT"
+                ],
+                [
+                    18,
+                    21,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "reven morceau mouton beurr",
+        {
+            "entities": [
+                [
+                    14,
+                    20,
+                    "INGREDIENT"
+                ],
+                [
+                    21,
+                    26,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "sing mettr farin mouill eau",
+        {
+            "entities": [
+                [
+                    11,
+                    16,
+                    "INGREDIENT"
+                ],
+                [
+                    24,
+                    27,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "ouvr boit concentr tomat m\u00e9lang litr eau",
+        {
+            "entities": [
+                [
+                    19,
+                    24,
+                    "INGREDIENT"
+                ],
+                [
+                    37,
+                    40,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "laiss bouill ajout l\u00e9gum \u00e9pluch taill guis",
+        {
+            "entities": [
+                [
+                    6,
+                    12,
+                    "INGREDIENT"
+                ],
+                [
+                    19,
+                    24,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "met pois chich",
+        {
+            "entities": [
+                [
+                    4,
+                    8,
+                    "INGREDIENT"
+                ],
+                [
+                    9,
+                    14,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "l\u00e9gum presqu cuit ajout mergu cuiss poulet mouton",
+        {
+            "entities": [
+                [
+                    0,
+                    5,
+                    "INGREDIENT"
+                ],
+                [
+                    6,
+                    12,
+                    "INGREDIENT"
+                ],
+                [
+                    24,
+                    29,
+                    "INGREDIENT"
+                ],
+                [
+                    30,
+                    35,
+                    "INGREDIENT"
+                ],
+                [
+                    36,
+                    42,
+                    "INGREDIENT"
+                ],
+                [
+                    43,
+                    49,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "m\u00e9lang semoul fourchet \u00e9gren",
+        {
+            "entities": [
+                [
+                    7,
+                    13,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "dress semoul saladi",
+        {
+            "entities": [
+                [
+                    6,
+                    12,
+                    "INGREDIENT"
+                ],
+                [
+                    13,
+                    19,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "viand met sauc sauci",
+        {
+            "entities": [
+                [
+                    0,
+                    5,
+                    "INGREDIENT"
+                ],
+                [
+                    10,
+                    14,
+                    "INGREDIENT"
+                ],
+                [
+                    15,
+                    20,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "mang vin",
+        {
+            "entities": [
+                [
+                    0,
+                    4,
+                    "INGREDIENT"
+                ],
+                [
+                    5,
+                    8,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "ros",
+        {
+            "entities": [
+                [
+                    0,
+                    3,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "fair cuir p\u00e2t normal eau bouill sal",
+        {
+            "entities": [
+                [
+                    10,
+                    13,
+                    "INGREDIENT"
+                ],
+                [
+                    14,
+                    20,
+                    "INGREDIENT"
+                ],
+                [
+                    21,
+                    24,
+                    "INGREDIENT"
+                ],
+                [
+                    25,
+                    31,
+                    "INGREDIENT"
+                ],
+                [
+                    32,
+                    35,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "\u00e9gout refroid pass eau froid press",
+        {
+            "entities": [
+                [
+                    14,
+                    18,
+                    "INGREDIENT"
+                ],
+                [
+                    19,
+                    22,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "coup jambon roset lamel reven poel beurr huil gout conseil huil noix",
+        {
+            "entities": [
+                [
+                    5,
+                    11,
+                    "INGREDIENT"
+                ],
+                [
+                    35,
+                    40,
+                    "INGREDIENT"
+                ],
+                [
+                    41,
+                    45,
+                    "INGREDIENT"
+                ],
+                [
+                    59,
+                    63,
+                    "INGREDIENT"
+                ],
+                [
+                    64,
+                    68,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "ajout p\u00e2t grill feu moyen battr oeuf omelet",
+        {
+            "entities": [
+                [
+                    6,
+                    9,
+                    "INGREDIENT"
+                ],
+                [
+                    32,
+                    36,
+                    "INGREDIENT"
+                ],
+                [
+                    37,
+                    43,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "ajout gruyer rap vers poel cuison",
+        {
+            "entities": [
+                [
+                    6,
+                    12,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "vari existent morceau reblochon roquefort",
+        {
+            "entities": [
+                [
+                    0,
+                    4,
+                    "INGREDIENT"
+                ],
+                [
+                    22,
+                    31,
+                    "INGREDIENT"
+                ],
+                [
+                    32,
+                    41,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "casserol port bouillon \u00e9bullit",
+        {
+            "entities": [
+                [
+                    0,
+                    8,
+                    "INGREDIENT"
+                ],
+                [
+                    9,
+                    13,
+                    "INGREDIENT"
+                ],
+                [
+                    14,
+                    22,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "d\u00e9lai ma\u00efzen eau",
+        {
+            "entities": [
+                [
+                    6,
+                    12,
+                    "INGREDIENT"
+                ],
+                [
+                    13,
+                    16,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "incorpor bouillon brass",
+        {
+            "entities": [
+                [
+                    9,
+                    17,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "temp chauff huil wok po\u00eal",
+        {
+            "entities": [
+                [
+                    12,
+                    16,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "fair reven oignon ail \u00e9chalot champignon minut",
+        {
+            "entities": [
+                [
+                    11,
+                    17,
+                    "INGREDIENT"
+                ],
+                [
+                    18,
+                    21,
+                    "INGREDIENT"
+                ],
+                [
+                    22,
+                    29,
+                    "INGREDIENT"
+                ],
+                [
+                    30,
+                    40,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "ajout chair crab effil morceau",
+        {
+            "entities": [
+                [
+                    6,
+                    11,
+                    "INGREDIENT"
+                ],
+                [
+                    12,
+                    16,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "ajout m\u00e9lang crab sauc poisson sauc soi asperg coriandr",
+        {
+            "entities": [
+                [
+                    13,
+                    17,
+                    "INGREDIENT"
+                ],
+                [
+                    18,
+                    22,
+                    "INGREDIENT"
+                ],
+                [
+                    23,
+                    30,
+                    "INGREDIENT"
+                ],
+                [
+                    31,
+                    35,
+                    "INGREDIENT"
+                ],
+                [
+                    36,
+                    39,
+                    "INGREDIENT"
+                ],
+                [
+                    40,
+                    46,
+                    "INGREDIENT"
+                ],
+                [
+                    47,
+                    55,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "sal poivr",
+        {
+            "entities": [
+                [
+                    0,
+                    3,
+                    "INGREDIENT"
+                ],
+                [
+                    4,
+                    9,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "mijot remu temp tendret asperg",
+        {
+            "entities": [
+                [
+                    24,
+                    30,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "bol fouet oeuf eau",
+        {
+            "entities": [
+                [
+                    10,
+                    14,
+                    "INGREDIENT"
+                ],
+                [
+                    15,
+                    18,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "incorpor soup remu format fil",
+        {
+            "entities": [
+                [
+                    9,
+                    13,
+                    "INGREDIENT"
+                ],
+                [
+                    26,
+                    29,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "cuisin oriental",
+        {
+            "entities": [
+                [
+                    0,
+                    6,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "epluch lav pomm terr",
+        {
+            "entities": [
+                [
+                    11,
+                    15,
+                    "INGREDIENT"
+                ],
+                [
+                    16,
+                    20,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "r\u00e2pezl fin oignon",
+        {
+            "entities": [
+                [
+                    11,
+                    17,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "enlev eau press main",
+        {
+            "entities": [
+                [
+                    6,
+                    9,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "mettezl terrin",
+        {
+            "entities": [
+                [
+                    8,
+                    14,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "ajout sel poivr farin oeuf ciboulet cisel",
+        {
+            "entities": [
+                [
+                    6,
+                    9,
+                    "INGREDIENT"
+                ],
+                [
+                    10,
+                    15,
+                    "INGREDIENT"
+                ],
+                [
+                    16,
+                    21,
+                    "INGREDIENT"
+                ],
+                [
+                    22,
+                    26,
+                    "INGREDIENT"
+                ],
+                [
+                    27,
+                    35,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "fa\u00e7on main galet cm \u00e9paisseur pr\u00e9par",
+        {
+            "entities": [
+                [
+                    11,
+                    16,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "frir huil c\u00f4t po\u00eal chaud minut c\u00f4t",
+        {
+            "entities": [
+                [
+                    5,
+                    9,
+                    "INGREDIENT"
+                ],
+                [
+                    10,
+                    13,
+                    "INGREDIENT"
+                ],
+                [
+                    31,
+                    34,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "serv accompagn viand d\u00e9gust seul salad",
+        {
+            "entities": [
+                [
+                    15,
+                    20,
+                    "INGREDIENT"
+                ],
+                [
+                    33,
+                    38,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "mettr saladi farin m\u00e9lang levur chimiqu",
+        {
+            "entities": [
+                [
+                    6,
+                    12,
+                    "INGREDIENT"
+                ],
+                [
+                    13,
+                    18,
+                    "INGREDIENT"
+                ],
+                [
+                    26,
+                    31,
+                    "INGREDIENT"
+                ],
+                [
+                    32,
+                    39,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "fair fontain mettr milieu beurr ramoll oeuf battus pinc sel sucr poudr eau fleur orang",
+        {
+            "entities": [
+                [
+                    26,
+                    31,
+                    "INGREDIENT"
+                ],
+                [
+                    39,
+                    43,
+                    "INGREDIENT"
+                ],
+                [
+                    56,
+                    59,
+                    "INGREDIENT"
+                ],
+                [
+                    60,
+                    64,
+                    "INGREDIENT"
+                ],
+                [
+                    65,
+                    70,
+                    "INGREDIENT"
+                ],
+                [
+                    71,
+                    74,
+                    "INGREDIENT"
+                ],
+                [
+                    75,
+                    80,
+                    "INGREDIENT"
+                ],
+                [
+                    81,
+                    86,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "rajout eau n\u00e9cessair obten p\u00e2t li",
+        {
+            "entities": [
+                [
+                    7,
+                    10,
+                    "INGREDIENT"
+                ],
+                [
+                    27,
+                    30,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "form trentain g\u00e2teau form bateau",
+        {
+            "entities": [
+                [
+                    14,
+                    20,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "navet conservent bo\u00eet m\u00e9tall",
+        {
+            "entities": [
+                [
+                    0,
+                    5,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "bandol ros",
+        {
+            "entities": [
+                [
+                    7,
+                    10,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "fair tremp pois chich sec eau heur bo\u00eet",
+        {
+            "entities": [
+                [
+                    11,
+                    15,
+                    "INGREDIENT"
+                ],
+                [
+                    16,
+                    21,
+                    "INGREDIENT"
+                ],
+                [
+                    26,
+                    29,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "egoutt mettr casseroll ajout eau port \u00e9bullit",
+        {
+            "entities": [
+                [
+                    29,
+                    32,
+                    "INGREDIENT"
+                ],
+                [
+                    33,
+                    37,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "mix pois jus citron huil ail eau sel second obten pur cr\u00e9meux",
+        {
+            "entities": [
+                [
+                    4,
+                    8,
+                    "INGREDIENT"
+                ],
+                [
+                    9,
+                    12,
+                    "INGREDIENT"
+                ],
+                [
+                    13,
+                    19,
+                    "INGREDIENT"
+                ],
+                [
+                    20,
+                    24,
+                    "INGREDIENT"
+                ],
+                [
+                    25,
+                    28,
+                    "INGREDIENT"
+                ],
+                [
+                    29,
+                    32,
+                    "INGREDIENT"
+                ],
+                [
+                    33,
+                    36,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "veil d\u00e9soss poulet ouvr",
+        {
+            "entities": [
+                [
+                    12,
+                    18,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "faut attaqu croupion carc os retourn progress poulet",
+        {
+            "entities": [
+                [
+                    21,
+                    25,
+                    "INGREDIENT"
+                ],
+                [
+                    46,
+                    52,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "d\u00e9soss retourn poulet rentr pilon",
+        {
+            "entities": [
+                [
+                    15,
+                    21,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "carc os carott poireau permettr fair bouillon poul fair reven minut mouill verr vin blanc jur fair r\u00e9duir couvr eau hauteur mijot heur",
+        {
+            "entities": [
+                [
+                    0,
+                    4,
+                    "INGREDIENT"
+                ],
+                [
+                    8,
+                    14,
+                    "INGREDIENT"
+                ],
+                [
+                    15,
+                    22,
+                    "INGREDIENT"
+                ],
+                [
+                    37,
+                    45,
+                    "INGREDIENT"
+                ],
+                [
+                    46,
+                    50,
+                    "INGREDIENT"
+                ],
+                [
+                    80,
+                    83,
+                    "INGREDIENT"
+                ],
+                [
+                    106,
+                    111,
+                    "INGREDIENT"
+                ],
+                [
+                    112,
+                    115,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "pass tam r\u00e9cuper bouillon",
+        {
+            "entities": [
+                [
+                    0,
+                    4,
+                    "INGREDIENT"
+                ],
+                [
+                    17,
+                    25,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "lendemain d\u00e9graiss bouillon fair r\u00e9duir moiti",
+        {
+            "entities": [
+                [
+                    19,
+                    27,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "pr\u00e9par farc d\u00e9taill champignon farc petit morceau fair reven r\u00e9duir \u00e9chalot",
+        {
+            "entities": [
+                [
+                    20,
+                    30,
+                    "INGREDIENT"
+                ],
+                [
+                    68,
+                    75,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "mouill raisin sec",
+        {
+            "entities": [
+                [
+                    7,
+                    13,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "d\u00e9taill demibrioch morceau mouill lait malax main",
+        {
+            "entities": [
+                [
+                    34,
+                    38,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "m\u00e9lang raisin brioch mouill champignon r\u00e9duit persil hach",
+        {
+            "entities": [
+                [
+                    7,
+                    13,
+                    "INGREDIENT"
+                ],
+                [
+                    14,
+                    20,
+                    "INGREDIENT"
+                ],
+                [
+                    28,
+                    38,
+                    "INGREDIENT"
+                ],
+                [
+                    46,
+                    52,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "farc poulet m\u00e9lang",
+        {
+            "entities": [
+                [
+                    5,
+                    11,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "fair reven cocott poulet fac mn",
+        {
+            "entities": [
+                [
+                    18,
+                    24,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "vers bouillon r\u00e9duit mijot mn feu",
+        {
+            "entities": [
+                [
+                    5,
+                    13,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "poulet r\u00e9serv plat",
+        {
+            "entities": [
+                [
+                    0,
+                    6,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "pass chinois cuisson",
+        {
+            "entities": [
+                [
+                    0,
+                    4,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "vers casserol verr vin jaun crem",
+        {
+            "entities": [
+                [
+                    5,
+                    13,
+                    "INGREDIENT"
+                ],
+                [
+                    19,
+                    22,
+                    "INGREDIENT"
+                ],
+                [
+                    23,
+                    27,
+                    "INGREDIENT"
+                ],
+                [
+                    28,
+                    32,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "port frem",
+        {
+            "entities": [
+                [
+                    0,
+                    4,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "vers morill fra\u00eech jus fair mijot dizain minut",
+        {
+            "entities": [
+                [
+                    5,
+                    11,
+                    "INGREDIENT"
+                ],
+                [
+                    19,
+                    22,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "d\u00e9coup poulet sen largeur gross rondel \u00e9paiss",
+        {
+            "entities": [
+                [
+                    7,
+                    13,
+                    "INGREDIENT"
+                ],
+                [
+                    18,
+                    25,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "d\u00e9pos rondel assiet napp sauc vin jaun morill",
+        {
+            "entities": [
+                [
+                    25,
+                    29,
+                    "INGREDIENT"
+                ],
+                [
+                    30,
+                    33,
+                    "INGREDIENT"
+                ],
+                [
+                    34,
+                    38,
+                    "INGREDIENT"
+                ],
+                [
+                    39,
+                    45,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "serv accompagn vin jaun",
+        {
+            "entities": [
+                [
+                    15,
+                    18,
+                    "INGREDIENT"
+                ],
+                [
+                    19,
+                    23,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "qualit produit poulet morill fra\u00eech fondamental",
+        {
+            "entities": [
+                [
+                    15,
+                    21,
+                    "INGREDIENT"
+                ],
+                [
+                    22,
+                    28,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "\u00e9ventuel ouvr poulet d\u00e9soss faudr recoudr farc",
+        {
+            "entities": [
+                [
+                    14,
+                    20,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "vin jaun serv pr\u00e9par",
+        {
+            "entities": [
+                [
+                    0,
+                    3,
+                    "INGREDIENT"
+                ],
+                [
+                    4,
+                    8,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "fair fontain farin",
+        {
+            "entities": [
+                [
+                    13,
+                    18,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "m\u00e9lang sucr poudr levur d\u00e9lai lait beurr oeuf petr ajout sel jam levur",
+        {
+            "entities": [
+                [
+                    7,
+                    11,
+                    "INGREDIENT"
+                ],
+                [
+                    12,
+                    17,
+                    "INGREDIENT"
+                ],
+                [
+                    18,
+                    23,
+                    "INGREDIENT"
+                ],
+                [
+                    30,
+                    34,
+                    "INGREDIENT"
+                ],
+                [
+                    35,
+                    40,
+                    "INGREDIENT"
+                ],
+                [
+                    41,
+                    45,
+                    "INGREDIENT"
+                ],
+                [
+                    57,
+                    60,
+                    "INGREDIENT"
+                ],
+                [
+                    65,
+                    70,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "ajout fameux sucr perl",
+        {
+            "entities": [
+                [
+                    13,
+                    17,
+                    "INGREDIENT"
+                ],
+                [
+                    18,
+                    22,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "trouv faudr \u00e9cras sucr morceau cm",
+        {
+            "entities": [
+                [
+                    18,
+                    22,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "m\u00e9lang p\u00e2t sucr",
+        {
+            "entities": [
+                [
+                    7,
+                    10,
+                    "INGREDIENT"
+                ],
+                [
+                    11,
+                    15,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "mettr plaqu beurr gonfl min",
+        {
+            "entities": [
+                [
+                    12,
+                    17,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "dor oeuf battu couleur",
+        {
+            "entities": [
+                [
+                    0,
+                    3,
+                    "INGREDIENT"
+                ],
+                [
+                    4,
+                    8,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "exist recet pros diff\u00e9rent vient fin abaiss p\u00e2t mm enrob boulot p\u00e2t larg fent cm fait",
+        {
+            "entities": [
+                [
+                    44,
+                    47,
+                    "INGREDIENT"
+                ],
+                [
+                    64,
+                    67,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "vient sucr perl",
+        {
+            "entities": [
+                [
+                    6,
+                    10,
+                    "INGREDIENT"
+                ],
+                [
+                    11,
+                    15,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "ndchef g\u00e2teau appel g\u00e2teau vervi",
+        {
+            "entities": [
+                [
+                    7,
+                    13,
+                    "INGREDIENT"
+                ],
+                [
+                    20,
+                    26,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "pr\u00e9par b\u00e9chamel fair fondr casseroll beurr feu ajout farin m\u00e9lang \u00e9nerg fouet main",
+        {
+            "entities": [
+                [
+                    7,
+                    15,
+                    "INGREDIENT"
+                ],
+                [
+                    37,
+                    42,
+                    "INGREDIENT"
+                ],
+                [
+                    53,
+                    58,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "ajout pet pet lait continu fouet \u00e9vit format grumeau",
+        {
+            "entities": [
+                [
+                    14,
+                    18,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "fair reven salsif poel huil",
+        {
+            "entities": [
+                [
+                    11,
+                    17,
+                    "INGREDIENT"
+                ],
+                [
+                    23,
+                    27,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "sal poivr",
+        {
+            "entities": [
+                [
+                    0,
+                    3,
+                    "INGREDIENT"
+                ],
+                [
+                    4,
+                    9,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "dor vers sauc b\u00e9chamel mijot minut feu",
+        {
+            "entities": [
+                [
+                    0,
+                    3,
+                    "INGREDIENT"
+                ],
+                [
+                    9,
+                    13,
+                    "INGREDIENT"
+                ],
+                [
+                    14,
+                    22,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "sal cuisson",
+        {
+            "entities": [
+                [
+                    0,
+                    3,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "temp sais escalop dind huil sal poivr fac escalop lorsqu dor",
+        {
+            "entities": [
+                [
+                    10,
+                    17,
+                    "INGREDIENT"
+                ],
+                [
+                    18,
+                    22,
+                    "INGREDIENT"
+                ],
+                [
+                    23,
+                    27,
+                    "INGREDIENT"
+                ],
+                [
+                    28,
+                    31,
+                    "INGREDIENT"
+                ],
+                [
+                    32,
+                    37,
+                    "INGREDIENT"
+                ],
+                [
+                    42,
+                    49,
+                    "INGREDIENT"
+                ],
+                [
+                    57,
+                    60,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "serv imm\u00e9diat noix muscad salsif sauc",
+        {
+            "entities": [
+                [
+                    14,
+                    18,
+                    "INGREDIENT"
+                ],
+                [
+                    19,
+                    25,
+                    "INGREDIENT"
+                ],
+                [
+                    26,
+                    32,
+                    "INGREDIENT"
+                ],
+                [
+                    33,
+                    37,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "vin roug tourain exempl",
+        {
+            "entities": [
+                [
+                    0,
+                    3,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "pr\u00e9par p\u00e2t bris m\u00e9lang farin beurr d\u00e9 faut obten m\u00e9lang minut maximum",
+        {
+            "entities": [
+                [
+                    7,
+                    10,
+                    "INGREDIENT"
+                ],
+                [
+                    11,
+                    15,
+                    "INGREDIENT"
+                ],
+                [
+                    23,
+                    28,
+                    "INGREDIENT"
+                ],
+                [
+                    29,
+                    34,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "vers m\u00e9lang planch form fontain milieu met sucr sucr vanill sel eau",
+        {
+            "entities": [
+                [
+                    43,
+                    47,
+                    "INGREDIENT"
+                ],
+                [
+                    48,
+                    52,
+                    "INGREDIENT"
+                ],
+                [
+                    53,
+                    59,
+                    "INGREDIENT"
+                ],
+                [
+                    60,
+                    63,
+                    "INGREDIENT"
+                ],
+                [
+                    64,
+                    67,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "m\u00e9lang form boul repos heur \u00e9cras pat paum main liss",
+        {
+            "entities": [
+                [
+                    34,
+                    37,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "pr\u00e9par p\u00e2t choux bouill eau lait beurr sucr sel",
+        {
+            "entities": [
+                [
+                    7,
+                    10,
+                    "INGREDIENT"
+                ],
+                [
+                    11,
+                    16,
+                    "INGREDIENT"
+                ],
+                [
+                    17,
+                    23,
+                    "INGREDIENT"
+                ],
+                [
+                    24,
+                    27,
+                    "INGREDIENT"
+                ],
+                [
+                    28,
+                    32,
+                    "INGREDIENT"
+                ],
+                [
+                    33,
+                    38,
+                    "INGREDIENT"
+                ],
+                [
+                    39,
+                    43,
+                    "INGREDIENT"
+                ],
+                [
+                    44,
+                    47,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "retir casserol \u00e9bullit mettr ma\u00efzen tourn",
+        {
+            "entities": [
+                [
+                    6,
+                    14,
+                    "INGREDIENT"
+                ],
+                [
+                    29,
+                    35,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "p\u00e2t pr\u00e9sent boul \u00e9last",
+        {
+            "entities": [
+                [
+                    0,
+                    3,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "remettr casserol feu instant retir laiss tied",
+        {
+            "entities": [
+                [
+                    8,
+                    16,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "ajout oeuf travaill fort p\u00e2t oeuf",
+        {
+            "entities": [
+                [
+                    6,
+                    10,
+                    "INGREDIENT"
+                ],
+                [
+                    25,
+                    28,
+                    "INGREDIENT"
+                ],
+                [
+                    29,
+                    33,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "dispos pat petit tas espac plaqu beurr",
+        {
+            "entities": [
+                [
+                    7,
+                    10,
+                    "INGREDIENT"
+                ],
+                [
+                    33,
+                    38,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "pr\u00e9par crem chantilly prendr bol refroid vers crem gla\u00e7on pil",
+        {
+            "entities": [
+                [
+                    7,
+                    11,
+                    "INGREDIENT"
+                ],
+                [
+                    12,
+                    21,
+                    "INGREDIENT"
+                ],
+                [
+                    46,
+                    50,
+                    "INGREDIENT"
+                ],
+                [
+                    51,
+                    57,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "m\u00e9lang batteur ajout sucr",
+        {
+            "entities": [
+                [
+                    21,
+                    25,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "arr\u00eat crem bec",
+        {
+            "entities": [
+                [
+                    6,
+                    10,
+                    "INGREDIENT"
+                ],
+                [
+                    11,
+                    14,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "fair caramel roux sucr cuiller eau",
+        {
+            "entities": [
+                [
+                    5,
+                    12,
+                    "INGREDIENT"
+                ],
+                [
+                    18,
+                    22,
+                    "INGREDIENT"
+                ],
+                [
+                    31,
+                    34,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "pr\u00eat d\u00e9coup disqu p\u00e2t bris cm diametr piqu fourchet",
+        {
+            "entities": [
+                [
+                    18,
+                    21,
+                    "INGREDIENT"
+                ],
+                [
+                    22,
+                    26,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "tremp t\u00eat bas petit choux caramel dispos couron coll c\u00f4t c\u00f4t cm bord disqu p\u00e2t",
+        {
+            "entities": [
+                [
+                    20,
+                    25,
+                    "INGREDIENT"
+                ],
+                [
+                    26,
+                    33,
+                    "INGREDIENT"
+                ],
+                [
+                    41,
+                    47,
+                    "INGREDIENT"
+                ],
+                [
+                    53,
+                    56,
+                    "INGREDIENT"
+                ],
+                [
+                    57,
+                    60,
+                    "INGREDIENT"
+                ],
+                [
+                    75,
+                    78,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "rempl centr g\u00e2teau crem chantilly",
+        {
+            "entities": [
+                [
+                    12,
+                    18,
+                    "INGREDIENT"
+                ],
+                [
+                    19,
+                    23,
+                    "INGREDIENT"
+                ],
+                [
+                    24,
+                    33,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "pr\u00e9par marmit eau sal bouill",
+        {
+            "entities": [
+                [
+                    14,
+                    17,
+                    "INGREDIENT"
+                ],
+                [
+                    18,
+                    21,
+                    "INGREDIENT"
+                ],
+                [
+                    22,
+                    28,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "piqu poulp aid fourchet plong eau second retir",
+        {
+            "entities": [
+                [
+                    30,
+                    33,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "saladi pr\u00e9par vinaigret met jus citron huil oliv persil oignon",
+        {
+            "entities": [
+                [
+                    0,
+                    6,
+                    "INGREDIENT"
+                ],
+                [
+                    14,
+                    23,
+                    "INGREDIENT"
+                ],
+                [
+                    28,
+                    31,
+                    "INGREDIENT"
+                ],
+                [
+                    32,
+                    38,
+                    "INGREDIENT"
+                ],
+                [
+                    39,
+                    43,
+                    "INGREDIENT"
+                ],
+                [
+                    44,
+                    48,
+                    "INGREDIENT"
+                ],
+                [
+                    49,
+                    55,
+                    "INGREDIENT"
+                ],
+                [
+                    56,
+                    62,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "poulp d\u00e9coup petit morceau refoid incorpor morceau vinaigret mettr frigo heur",
+        {
+            "entities": [
+                [
+                    51,
+                    60,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "farin cub porc cas maizen",
+        {
+            "entities": [
+                [
+                    0,
+                    5,
+                    "INGREDIENT"
+                ],
+                [
+                    10,
+                    14,
+                    "INGREDIENT"
+                ],
+                [
+                    19,
+                    25,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "faitesl reven huil remu",
+        {
+            "entities": [
+                [
+                    14,
+                    18,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "plac rissol ail hach oignon eminc poivron",
+        {
+            "entities": [
+                [
+                    12,
+                    15,
+                    "INGREDIENT"
+                ],
+                [
+                    21,
+                    27,
+                    "INGREDIENT"
+                ],
+                [
+                    34,
+                    41,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "vers vinaigr sauc soj cuis",
+        {
+            "entities": [
+                [
+                    5,
+                    12,
+                    "INGREDIENT"
+                ],
+                [
+                    13,
+                    17,
+                    "INGREDIENT"
+                ],
+                [
+                    18,
+                    21,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "remet viand morceau anan maizen dissout sirop anan",
+        {
+            "entities": [
+                [
+                    6,
+                    11,
+                    "INGREDIENT"
+                ],
+                [
+                    20,
+                    24,
+                    "INGREDIENT"
+                ],
+                [
+                    25,
+                    31,
+                    "INGREDIENT"
+                ],
+                [
+                    40,
+                    45,
+                    "INGREDIENT"
+                ],
+                [
+                    46,
+                    50,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "porc remplac blanc poulet dind crevet",
+        {
+            "entities": [
+                [
+                    0,
+                    4,
+                    "INGREDIENT"
+                ],
+                [
+                    19,
+                    25,
+                    "INGREDIENT"
+                ],
+                [
+                    26,
+                    30,
+                    "INGREDIENT"
+                ],
+                [
+                    31,
+                    37,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "fair ramoll g\u00e9latin bol eau froid",
+        {
+            "entities": [
+                [
+                    12,
+                    19,
+                    "INGREDIENT"
+                ],
+                [
+                    24,
+                    27,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "r\u00e9duir frambois pur mettr casserol feu ajout sucr",
+        {
+            "entities": [
+                [
+                    7,
+                    15,
+                    "INGREDIENT"
+                ],
+                [
+                    26,
+                    34,
+                    "INGREDIENT"
+                ],
+                [
+                    45,
+                    49,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "jus frambois retir casserol feu port \u00e9bullit",
+        {
+            "entities": [
+                [
+                    0,
+                    3,
+                    "INGREDIENT"
+                ],
+                [
+                    4,
+                    12,
+                    "INGREDIENT"
+                ],
+                [
+                    19,
+                    27,
+                    "INGREDIENT"
+                ],
+                [
+                    32,
+                    36,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "essor g\u00e9latin mettr fondr jus frambois",
+        {
+            "entities": [
+                [
+                    6,
+                    13,
+                    "INGREDIENT"
+                ],
+                [
+                    26,
+                    29,
+                    "INGREDIENT"
+                ],
+                [
+                    30,
+                    38,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "fouet crem froid lait obten consist \u00e9paiss fouet sillon crem",
+        {
+            "entities": [
+                [
+                    6,
+                    10,
+                    "INGREDIENT"
+                ],
+                [
+                    17,
+                    21,
+                    "INGREDIENT"
+                ],
+                [
+                    56,
+                    60,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "s\u00e9par blanc jaun",
+        {
+            "entities": [
+                [
+                    12,
+                    16,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "vers jus frambois pet pet terrin conten crem",
+        {
+            "entities": [
+                [
+                    5,
+                    8,
+                    "INGREDIENT"
+                ],
+                [
+                    9,
+                    17,
+                    "INGREDIENT"
+                ],
+                [
+                    26,
+                    32,
+                    "INGREDIENT"
+                ],
+                [
+                    40,
+                    44,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "prendr mouss heur r\u00e9friger",
+        {
+            "entities": [
+                [
+                    7,
+                    12,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "recet march frais cass groseil",
+        {
+            "entities": [
+                [
+                    18,
+                    22,
+                    "INGREDIENT"
+                ],
+                [
+                    23,
+                    30,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "mouss meilleur frambois",
+        {
+            "entities": [
+                [
+                    0,
+                    5,
+                    "INGREDIENT"
+                ],
+                [
+                    15,
+                    23,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "commenc fair p\u00e2t bris m\u00e9lang farin eau sel sucr \u00e9quivalent cuiller caf rajout goutt huil tournesol",
+        {
+            "entities": [
+                [
+                    13,
+                    16,
+                    "INGREDIENT"
+                ],
+                [
+                    17,
+                    21,
+                    "INGREDIENT"
+                ],
+                [
+                    29,
+                    34,
+                    "INGREDIENT"
+                ],
+                [
+                    35,
+                    38,
+                    "INGREDIENT"
+                ],
+                [
+                    39,
+                    42,
+                    "INGREDIENT"
+                ],
+                [
+                    43,
+                    47,
+                    "INGREDIENT"
+                ],
+                [
+                    67,
+                    70,
+                    "INGREDIENT"
+                ],
+                [
+                    84,
+                    88,
+                    "INGREDIENT"
+                ],
+                [
+                    89,
+                    98,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "temp m\u00e9lang \u00e9pinard oignon d\u00e9coup morceau ajout jus citron sel poivr",
+        {
+            "entities": [
+                [
+                    12,
+                    19,
+                    "INGREDIENT"
+                ],
+                [
+                    20,
+                    26,
+                    "INGREDIENT"
+                ],
+                [
+                    48,
+                    51,
+                    "INGREDIENT"
+                ],
+                [
+                    52,
+                    58,
+                    "INGREDIENT"
+                ],
+                [
+                    59,
+                    62,
+                    "INGREDIENT"
+                ],
+                [
+                    63,
+                    68,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "d\u00e9coup p\u00e2t rondel rever tass",
+        {
+            "entities": [
+                [
+                    7,
+                    10,
+                    "INGREDIENT"
+                ],
+                [
+                    24,
+                    28,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "remplissezl \u00e9pinard coll extrem patt obten triangl",
+        {
+            "entities": [
+                [
+                    12,
+                    19,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "met four beignet thermostat minut",
+        {
+            "entities": [
+                [
+                    9,
+                    16,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "coup aubergin fin rondel dispos saladi saupoudr gros sel d\u00e9gorgent",
+        {
+            "entities": [
+                [
+                    5,
+                    13,
+                    "INGREDIENT"
+                ],
+                [
+                    32,
+                    38,
+                    "INGREDIENT"
+                ],
+                [
+                    53,
+                    56,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "coul tomat fair reven \u00e9chalot poivron d\u00e9coup d\u00e9 fin",
+        {
+            "entities": [
+                [
+                    0,
+                    4,
+                    "INGREDIENT"
+                ],
+                [
+                    5,
+                    10,
+                    "INGREDIENT"
+                ],
+                [
+                    22,
+                    29,
+                    "INGREDIENT"
+                ],
+                [
+                    30,
+                    37,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "ajout tomat concass",
+        {
+            "entities": [
+                [
+                    6,
+                    11,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "remu adjoindr fin lamel ail traitd huil oliv garn sel poivr",
+        {
+            "entities": [
+                [
+                    24,
+                    27,
+                    "INGREDIENT"
+                ],
+                [
+                    35,
+                    39,
+                    "INGREDIENT"
+                ],
+                [
+                    40,
+                    44,
+                    "INGREDIENT"
+                ],
+                [
+                    50,
+                    53,
+                    "INGREDIENT"
+                ],
+                [
+                    54,
+                    59,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "ensembl pass coul fair sauc onctueux",
+        {
+            "entities": [
+                [
+                    8,
+                    12,
+                    "INGREDIENT"
+                ],
+                [
+                    13,
+                    17,
+                    "INGREDIENT"
+                ],
+                [
+                    23,
+                    27,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "pat beignet saladi m\u00e9lang jaun oeuf yoghourt natur pot yoghourt rempl farin sachet levur sel persillad",
+        {
+            "entities": [
+                [
+                    0,
+                    3,
+                    "INGREDIENT"
+                ],
+                [
+                    4,
+                    11,
+                    "INGREDIENT"
+                ],
+                [
+                    12,
+                    18,
+                    "INGREDIENT"
+                ],
+                [
+                    26,
+                    30,
+                    "INGREDIENT"
+                ],
+                [
+                    31,
+                    35,
+                    "INGREDIENT"
+                ],
+                [
+                    36,
+                    44,
+                    "INGREDIENT"
+                ],
+                [
+                    55,
+                    63,
+                    "INGREDIENT"
+                ],
+                [
+                    70,
+                    75,
+                    "INGREDIENT"
+                ],
+                [
+                    83,
+                    88,
+                    "INGREDIENT"
+                ],
+                [
+                    89,
+                    92,
+                    "INGREDIENT"
+                ],
+                [
+                    93,
+                    102,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "adjoindr blanc oeuf battu neig",
+        {
+            "entities": [
+                [
+                    15,
+                    19,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "incorpor rondel aubergin sech papi absorb impregn p\u00e2t",
+        {
+            "entities": [
+                [
+                    16,
+                    24,
+                    "INGREDIENT"
+                ],
+                [
+                    50,
+                    53,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "poel fair reven aubergin huil oliv minut c\u00f4t",
+        {
+            "entities": [
+                [
+                    16,
+                    24,
+                    "INGREDIENT"
+                ],
+                [
+                    25,
+                    29,
+                    "INGREDIENT"
+                ],
+                [
+                    30,
+                    34,
+                    "INGREDIENT"
+                ],
+                [
+                    41,
+                    44,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "d\u00e9gust beignet recouvert coul",
+        {
+            "entities": [
+                [
+                    7,
+                    14,
+                    "INGREDIENT"
+                ],
+                [
+                    25,
+                    29,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "ros bandol vin blanc cass",
+        {
+            "entities": [
+                [
+                    0,
+                    3,
+                    "INGREDIENT"
+                ],
+                [
+                    11,
+                    14,
+                    "INGREDIENT"
+                ],
+                [
+                    21,
+                    25,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "coup chair poulet d\u00e9 dor culler soup huil chaud",
+        {
+            "entities": [
+                [
+                    5,
+                    10,
+                    "INGREDIENT"
+                ],
+                [
+                    11,
+                    17,
+                    "INGREDIENT"
+                ],
+                [
+                    21,
+                    24,
+                    "INGREDIENT"
+                ],
+                [
+                    32,
+                    36,
+                    "INGREDIENT"
+                ],
+                [
+                    37,
+                    41,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "mettr plac gros oignon hach",
+        {
+            "entities": [
+                [
+                    16,
+                    22,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "blond ajout poivron \u00e9goutt coup lani tomat \u00e9goutt coup morceau",
+        {
+            "entities": [
+                [
+                    0,
+                    5,
+                    "INGREDIENT"
+                ],
+                [
+                    12,
+                    19,
+                    "INGREDIENT"
+                ],
+                [
+                    32,
+                    36,
+                    "INGREDIENT"
+                ],
+                [
+                    37,
+                    42,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "vers riz morceau poulet crevet",
+        {
+            "entities": [
+                [
+                    5,
+                    8,
+                    "INGREDIENT"
+                ],
+                [
+                    17,
+                    23,
+                    "INGREDIENT"
+                ],
+                [
+                    24,
+                    30,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "sal moder poivr ajout sauc soj mouill bouillon volum riz",
+        {
+            "entities": [
+                [
+                    0,
+                    3,
+                    "INGREDIENT"
+                ],
+                [
+                    10,
+                    15,
+                    "INGREDIENT"
+                ],
+                [
+                    22,
+                    26,
+                    "INGREDIENT"
+                ],
+                [
+                    27,
+                    30,
+                    "INGREDIENT"
+                ],
+                [
+                    38,
+                    46,
+                    "INGREDIENT"
+                ],
+                [
+                    53,
+                    56,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "coup oignon rest rondel fair frir cuiller soup huil",
+        {
+            "entities": [
+                [
+                    5,
+                    11,
+                    "INGREDIENT"
+                ],
+                [
+                    42,
+                    46,
+                    "INGREDIENT"
+                ],
+                [
+                    47,
+                    51,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "serv dispos riz rondel oignon frit",
+        {
+            "entities": [
+                [
+                    12,
+                    15,
+                    "INGREDIENT"
+                ],
+                [
+                    23,
+                    29,
+                    "INGREDIENT"
+                ],
+                [
+                    30,
+                    34,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "accompagn petit ravi conten sauc curry noix coco r\u00e2p cacahuet pass mix",
+        {
+            "entities": [
+                [
+                    28,
+                    32,
+                    "INGREDIENT"
+                ],
+                [
+                    33,
+                    38,
+                    "INGREDIENT"
+                ],
+                [
+                    39,
+                    43,
+                    "INGREDIENT"
+                ],
+                [
+                    44,
+                    48,
+                    "INGREDIENT"
+                ],
+                [
+                    53,
+                    61,
+                    "INGREDIENT"
+                ],
+                [
+                    62,
+                    66,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "sylvan muscadet bier",
+        {
+            "entities": [
+                [
+                    16,
+                    20,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "casserol mettr noiset beurr fait dor oignon",
+        {
+            "entities": [
+                [
+                    0,
+                    8,
+                    "INGREDIENT"
+                ],
+                [
+                    15,
+                    21,
+                    "INGREDIENT"
+                ],
+                [
+                    22,
+                    27,
+                    "INGREDIENT"
+                ],
+                [
+                    33,
+                    36,
+                    "INGREDIENT"
+                ],
+                [
+                    37,
+                    43,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "ajout petit pois eau port \u00e9bulit",
+        {
+            "entities": [
+                [
+                    12,
+                    16,
+                    "INGREDIENT"
+                ],
+                [
+                    17,
+                    20,
+                    "INGREDIENT"
+                ],
+                [
+                    21,
+                    25,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "eminc jambon ajout micuisson",
+        {
+            "entities": [
+                [
+                    6,
+                    12,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "mix soup ajout crem sal poivr poivr normal potag meilleur",
+        {
+            "entities": [
+                [
+                    4,
+                    8,
+                    "INGREDIENT"
+                ],
+                [
+                    15,
+                    19,
+                    "INGREDIENT"
+                ],
+                [
+                    20,
+                    23,
+                    "INGREDIENT"
+                ],
+                [
+                    24,
+                    29,
+                    "INGREDIENT"
+                ],
+                [
+                    30,
+                    35,
+                    "INGREDIENT"
+                ],
+                [
+                    36,
+                    42,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "hach menumenu oignon",
+        {
+            "entities": [
+                [
+                    14,
+                    20,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "prendr loup vid \u00e9caill farc estragon oignon feuill lauri filet jus citron poivr",
+        {
+            "entities": [
+                [
+                    7,
+                    11,
+                    "INGREDIENT"
+                ],
+                [
+                    28,
+                    36,
+                    "INGREDIENT"
+                ],
+                [
+                    37,
+                    43,
+                    "INGREDIENT"
+                ],
+                [
+                    51,
+                    56,
+                    "INGREDIENT"
+                ],
+                [
+                    57,
+                    62,
+                    "INGREDIENT"
+                ],
+                [
+                    63,
+                    66,
+                    "INGREDIENT"
+                ],
+                [
+                    67,
+                    73,
+                    "INGREDIENT"
+                ],
+                [
+                    74,
+                    79,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "c\u00f4t",
+        {
+            "entities": [
+                [
+                    0,
+                    3,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "fair cuir oignon revenus beurr",
+        {
+            "entities": [
+                [
+                    10,
+                    16,
+                    "INGREDIENT"
+                ],
+                [
+                    25,
+                    30,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "mouill vin blanc ajout citron bouillon cub litr eau",
+        {
+            "entities": [
+                [
+                    7,
+                    10,
+                    "INGREDIENT"
+                ],
+                [
+                    23,
+                    29,
+                    "INGREDIENT"
+                ],
+                [
+                    30,
+                    38,
+                    "INGREDIENT"
+                ],
+                [
+                    48,
+                    51,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "coup l\u00e9gum brunois cuir eau",
+        {
+            "entities": [
+                [
+                    5,
+                    10,
+                    "INGREDIENT"
+                ],
+                [
+                    11,
+                    18,
+                    "INGREDIENT"
+                ],
+                [
+                    24,
+                    27,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "serv bar entour l\u00e9gum eau accompagn sauc",
+        {
+            "entities": [
+                [
+                    5,
+                    8,
+                    "INGREDIENT"
+                ],
+                [
+                    16,
+                    21,
+                    "INGREDIENT"
+                ],
+                [
+                    22,
+                    25,
+                    "INGREDIENT"
+                ],
+                [
+                    36,
+                    40,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "herb oignon farc parfu chair poisson",
+        {
+            "entities": [
+                [
+                    0,
+                    4,
+                    "INGREDIENT"
+                ],
+                [
+                    5,
+                    11,
+                    "INGREDIENT"
+                ],
+                [
+                    23,
+                    28,
+                    "INGREDIENT"
+                ],
+                [
+                    29,
+                    36,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "\u00e9chaud poisson eau bouill retir cordon central coup t\u00eat queu",
+        {
+            "entities": [
+                [
+                    7,
+                    14,
+                    "INGREDIENT"
+                ],
+                [
+                    15,
+                    18,
+                    "INGREDIENT"
+                ],
+                [
+                    19,
+                    25,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "coup lamproi tron\u00e7on fair marin heur vin flamb",
+        {
+            "entities": [
+                [
+                    26,
+                    31,
+                    "INGREDIENT"
+                ],
+                [
+                    37,
+                    40,
+                    "INGREDIENT"
+                ],
+                [
+                    41,
+                    46,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "fair reven m\u00e9lang huil oliv arachid huil arachid cocott fond \u00e9pais \u00e9chalot \u00e9minc petit oignon jambon coup d\u00e9",
+        {
+            "entities": [
+                [
+                    18,
+                    22,
+                    "INGREDIENT"
+                ],
+                [
+                    23,
+                    27,
+                    "INGREDIENT"
+                ],
+                [
+                    28,
+                    35,
+                    "INGREDIENT"
+                ],
+                [
+                    36,
+                    40,
+                    "INGREDIENT"
+                ],
+                [
+                    41,
+                    48,
+                    "INGREDIENT"
+                ],
+                [
+                    67,
+                    74,
+                    "INGREDIENT"
+                ],
+                [
+                    87,
+                    93,
+                    "INGREDIENT"
+                ],
+                [
+                    94,
+                    100,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "ajout ail \u00e9cras farin remu mouill vin marinad d\u00e9pos garn sal poivr",
+        {
+            "entities": [
+                [
+                    6,
+                    9,
+                    "INGREDIENT"
+                ],
+                [
+                    16,
+                    21,
+                    "INGREDIENT"
+                ],
+                [
+                    34,
+                    37,
+                    "INGREDIENT"
+                ],
+                [
+                    38,
+                    45,
+                    "INGREDIENT"
+                ],
+                [
+                    57,
+                    60,
+                    "INGREDIENT"
+                ],
+                [
+                    61,
+                    66,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "fair su poireau par d\u00e9coup petit b\u00e2tonnet cm mettr sauc",
+        {
+            "entities": [
+                [
+                    8,
+                    15,
+                    "INGREDIENT"
+                ],
+                [
+                    33,
+                    41,
+                    "INGREDIENT"
+                ],
+                [
+                    51,
+                    55,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ]
+]
