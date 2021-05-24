@@ -7,7 +7,7 @@ nlp = spacy.load("fr_core_news_sm")
 
 ustensiles = []
 #récupère une liste d'ustensiles
-with open("ustensilesCuisine.txt", "r") as file2:
+with open("Data/ustensilesCuisineSurInternet.txt", "r") as file2:
     for us in file2:
         us = us.split("\n")[0]
         ustensiles.append(us)
@@ -21,7 +21,7 @@ re_patterns2 = [" ".join(["(\w+)_!"+pos for pos in p.split()]) for p in patterns
 matches1 = []
 matches2 = []
 doc2 = []
-with open("ingredient.txt", "r") as file:
+with open("Data/ingredient.txt", "r") as file:
     for ingre in file:
         ingre = ingre.split("(")[0]
         file = nlp(ingre)
